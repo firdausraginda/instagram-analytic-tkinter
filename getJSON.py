@@ -131,7 +131,7 @@ def sortPost(data):
     sortedComment = sorted(data, key=findCountComment, reverse=True)
 
     hasilCutLike = cutRanking(sortedLike, 3, 'sorting like post')
-    hasilCutComment = cutRanking(sortedComment, 3, 'sorting like post')
+    hasilCutComment = cutRanking(sortedComment, 3, 'sorting comment post')
     
     return hasilCutLike, hasilCutComment
 
@@ -148,15 +148,25 @@ def format1(data):
 def format2(data, key):
     arrTime = []
     arrQty = []
-    for i in range(len(data)):
+    for i in reversed(range(len(data))):
         if key == 'like':
             arrTime.append(data[i]['time'])
             arrQty.append(data[i]['count like'])
-        else:
+        else:            
             arrTime.append(data[i]['time'])
             arrQty.append(data[i]['count comment'])
     
     return arrTime, arrQty
+
+def format3(data):
+    arrAccount = []
+    arrComment = []
+    for i in range(len(data['all sorted ranked comments'])):
+        for j in range(len(data['all sorted ranked comments'][i]['sorted ranked comments'])):
+            arrAccount.append(data['all sorted ranked comments'][i]['account name'])
+            arrComment.append(data['all sorted ranked comments'][i]['sorted ranked comments'][j][0])
+
+    return arrAccount, arrComment
 
 # -------------main function-------------
 def scrapingAllComments(accOwner, isOwnerInclude):
@@ -330,6 +340,6 @@ def mainProgramGetJSON(account, inputanRank):
 
         return hasilScrapingComAcc, hasilAccMenByUser, hasilSelCom, hasilGetPost, hasilSortLike, hasilSortComment, curAcc
     else:
-        return 'akun tidak memiliki postingan atau di private'
+        return 'account is private or have not post anything yet'
 
 # mainProgramGetJSON('../data-instagram/ra.ginda/ra.ginda.json', 3)
