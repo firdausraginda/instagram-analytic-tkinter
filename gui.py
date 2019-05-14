@@ -33,11 +33,11 @@ def barChartHorizontal(keyName, valueName, keyData, valueData, explanation):
     df = DataFrame(Data, columns= [keyName, valueName])
     df = df[[keyName, valueName]].groupby(keyName).sum()
 
-    figure = plt.Figure(figsize=(3,4), dpi=70)
+    figure = plt.Figure(figsize=(5,4), dpi=70)
     ax = figure.add_subplot(111)
     bar = FigureCanvasTkAgg(figure, root)
-    bar.get_tk_widget().pack(ipadx=3000, pady=10, padx=30)
-    df.plot(kind='barh', legend=True, ax=ax, fontsize=10)
+    bar.get_tk_widget().pack(ipadx=450, pady=10, padx=30)
+    df.plot(kind='barh', legend=True, ax=ax, fontsize=12)
     ax.set_title(explanation)
 
 def lineChart(keyName, valueName, keyData, valueData, explanation):
@@ -51,16 +51,51 @@ def lineChart(keyName, valueName, keyData, valueData, explanation):
     figure = plt.Figure(figsize=(3,4), dpi=80)
     ax = figure.add_subplot(111)
     line = FigureCanvasTkAgg(figure, root)
-    line.get_tk_widget().pack(side=tk.LEFT, ipadx=200, padx=30)
+    line.get_tk_widget().pack(side=tk.LEFT, ipadx=120)
     df.plot(kind='line', legend=True, ax=ax, color='r',marker='o', fontsize=10)
     ax.set_title(explanation)
 
+def listBox(data1, data2):
+    # scrollbar = tk.Scrollbar(root)
+    # scrollbar.pack( side = tk.RIGHT, fill = tk.Y )
+
+    mylist = tk.Listbox(root)
+    for i in range(len(data1)):
+        if i == 0:
+            mylist.insert(tk.END, "TOP %s POSTS based on LIKES" % (len(data1)))
+            mylist.insert(tk.END, "--------------------------------------")
+        mylist.insert(tk.END, "POST-%s" % (i+1))
+        mylist.insert(tk.END, "caption: " + data1[i]['caption'])
+        mylist.insert(tk.END, "post time: " + data1[i]['time'])
+        mylist.insert(tk.END, "likes: " + str(data1[i]['count like']))
+        mylist.insert(tk.END, "")
+
+        if i+1 == len(data1):
+            mylist.insert(tk.END, "================================================================")
+            mylist.insert(tk.END, "")
+  
+    for i in range(len(data2)):
+        if i == 0:
+            mylist.insert(tk.END, "TOP %s POSTS based on COMMENTS" % (len(data2)))
+            mylist.insert(tk.END, "--------------------------------------")
+        mylist.insert(tk.END, "POST-%s" % (i+1))
+        mylist.insert(tk.END, "caption: " + data2[i]['caption'])
+        mylist.insert(tk.END, "post time: " + data2[i]['time'])
+        mylist.insert(tk.END, "comments: " + str(data2[i]['count comment']))
+        mylist.insert(tk.END, "")
+
+    mylist.pack(side=tk.RIGHT, fill=tk.BOTH, ipadx=600)
+    # scrollbar.config( command = mylist.yview )
+
 def igScraping(nama):
     if type(mainProg(nama, 10, 5)) != str:
-        arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, curAcc = mainProg(nama, 10, 5)
+        arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc = mainProg(nama, 10, 5)
+
         barChartHorizontal('Username', 'Comments', arrKeyComAcc, arrQtyComAcc, 'account that comment the most')
-        lineChart('oldest post --> latest post', 'Likes', arrKeyGetPostLike, arrQtyGetPostLike, 'Number of Likes per Post')        
-        lineChart('oldest post --> latest post', 'Comments', arrKeyGetPostComment, arrQtyGetPostComment, 'Number of Comments per Post')
+        lineChart('oldest post --> latest post', 'Likes', arrKeyGetPostLike, arrQtyGetPostLike, 'Number of Likes')        
+        lineChart('oldest post --> latest post', 'Comments', arrKeyGetPostComment, arrQtyGetPostComment, 'Number of Comments')
+
+        listBox(hasilSortLike, hasilSortComment)
     else:
         tk.messagebox.showerror("Error", mainProg(nama, 10, 5))
 

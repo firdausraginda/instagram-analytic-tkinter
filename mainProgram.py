@@ -41,7 +41,7 @@ def mainProg(account, qtyPost, qtyAcc):
         # print('===============================================================')
         # print('hasil post dengan comment terbanyak: %s' % (hasilSortComment))
 
-        return arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, curAcc
+        return arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc
         # return hasilScrapingComAcc, hasilAccMenByUser, hasilKomenMenarik, hasilSortLike, hasilSortComment
 
     else:
