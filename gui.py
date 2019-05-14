@@ -1,16 +1,51 @@
 # from tkinter import *
 import tkinter as tk
 from tkinter import messagebox
-
-from mainProgram import mainProg
+from tkinter import ttk
 
 from pandas import DataFrame
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
+from getJSON import mainProgramGetJSON, getVeryPositiveComments, automateIgScraper, format1, format2, format3
+
 root = tk.Tk()
 # root.geometry("900x500")
 root.attributes('-fullscreen', True)
+
+def mainProg(account, qtyPost, qtyAcc):
+    global valProgBar
+
+    accOwner = automateIgScraper(account, qtyPost)
+    valProgBar += 40
+    progBar.after(500, progress(valProgBar))
+    progBar.update()
+
+
+    if(type(mainProgramGetJSON(accOwner, qtyAcc)) != str):
+        hasilScrapingComAcc, hasilAccMenByUser, hasilSelCom, hasilGetPost, hasilSortLike, hasilSortComment, curAcc = mainProgramGetJSON(accOwner, qtyAcc)
+        valProgBar += 10
+        progBar.after(500, progress(valProgBar))
+        progBar.update()
+
+        arrKeyComAcc, arrQtyComAcc = format1(hasilScrapingComAcc)
+        valProgBar += 10
+        progBar.after(500, progress(valProgBar))
+        progBar.update()
+
+        arrKeyGetPostLike, arrQtyGetPostLike = format2(hasilGetPost, 'like')
+        valProgBar += 5
+        progBar.after(500, progress(valProgBar))
+        progBar.update()
+
+        arrKeyGetPostComment, arrQtyGetPostComment = format2(hasilGetPost, 'comment')
+        valProgBar += 5
+        progBar.after(500, progress(valProgBar))
+        progBar.update()
+
+        return arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc
+    else:
+        return mainProgramGetJSON(accOwner, qtyAcc)
 
 def barChartVertikal(keyName, valueName, keyData, valueData, explanation):
     Data = {keyName: keyData,
@@ -92,36 +127,62 @@ def listBox(data1, data2):
     # scrollbar.config( command = mylist.yview )
 
 def igScraping(nama):
+    global valProgBar
+
     if type(mainProg(nama, 15, 5)) != str:
         arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc = mainProg(nama, 15, 5)
 
         if len(arrKeyComAcc) != 0: 
             barChartHorizontal('Username', 'Comments', arrKeyComAcc, arrQtyComAcc, 'account that comment the most')
-        
+            valProgBar += 3
+            progBar.after(500, progress(valProgBar))
+            progBar.update()
+
         if len(arrKeyGetPostLike) != 0: 
             lineChart('oldest post --> latest post', 'Likes', arrKeyGetPostLike, arrQtyGetPostLike, 'Number of Likes')        
-    
+            valProgBar += 3
+            progBar.after(500, progress(valProgBar))
+            progBar.update()
+
         if len(arrKeyGetPostComment) != 0: 
             lineChart('oldest post --> latest post', 'Comments', arrKeyGetPostComment, arrQtyGetPostComment, 'Number of Comments')
+            valProgBar += 2
+            progBar.after(500, progress(valProgBar))
+            progBar.update()
 
         if len(hasilSortLike) != 0 and len(hasilSortComment) != 0:
             listBox(hasilSortLike, hasilSortComment)
+            valProgBar += 2
+            progBar.after(500, progress(valProgBar))
+            progBar.update()
+
     else:
         messagebox.showerror("Error", mainProg(nama, 15, 5))
 
 def getInputan():
+    global valProgBar
+
     inputan = entry_1.get()
     if inputan != '':
         label_1.pack_forget()
         entry_1.pack_forget()
         button_1.pack_forget()
+        
+        valProgBar += 5
+        progBar.after(500, progress(valProgBar))
+        progBar.update()
+
         igScraping(inputan)
     else:
         messagebox.showerror("Error", 'text field cannot be empty')
 
+def progress(currentValue):
+    progBar["value"]=currentValue
+
 def closeWindow():
     root.destroy()
 
+# -------------- main program --------------
 label_1 = tk.Label(root, text="Input Username")
 entry_1 = tk.Entry(root)
 button_1 = tk.Button(root, text='start analyzing', command=getInputan, bg="green", fg="white")
@@ -131,5 +192,12 @@ button_close.pack()
 label_1.pack(pady=10)
 entry_1.pack(pady=5)
 button_1.pack()
+
+progBar = ttk.Progressbar(root,orient ="horizontal",length = 200, mode ="determinate")
+progBar.pack(pady=10)
+
+valProgBar = 0
+progBar["maximum"] = 100
+progBar["value"] = valProgBar
 
 root.mainloop()
