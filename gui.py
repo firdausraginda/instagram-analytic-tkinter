@@ -95,27 +95,40 @@ def igScraping(nama):
     if type(mainProg(nama, 15, 5)) != str:
         arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc = mainProg(nama, 15, 5)
 
-        barChartHorizontal('Username', 'Comments', arrKeyComAcc, arrQtyComAcc, 'account that comment the most')
-        lineChart('oldest post --> latest post', 'Likes', arrKeyGetPostLike, arrQtyGetPostLike, 'Number of Likes')        
-        lineChart('oldest post --> latest post', 'Comments', arrKeyGetPostComment, arrQtyGetPostComment, 'Number of Comments')
+        if len(arrKeyComAcc) != 0: 
+            barChartHorizontal('Username', 'Comments', arrKeyComAcc, arrQtyComAcc, 'account that comment the most')
+        
+        if len(arrKeyGetPostLike) != 0: 
+            lineChart('oldest post --> latest post', 'Likes', arrKeyGetPostLike, arrQtyGetPostLike, 'Number of Likes')        
+    
+        if len(arrKeyGetPostComment) != 0: 
+            lineChart('oldest post --> latest post', 'Comments', arrKeyGetPostComment, arrQtyGetPostComment, 'Number of Comments')
 
-        listBox(hasilSortLike, hasilSortComment)
+        if len(hasilSortLike) != 0 and len(hasilSortComment) != 0:
+            listBox(hasilSortLike, hasilSortComment)
     else:
         messagebox.showerror("Error", mainProg(nama, 15, 5))
 
 def getInputan():
     inputan = entry_1.get()
     if inputan != '':
+        label_1.pack_forget()
+        entry_1.pack_forget()
+        button_1.pack_forget()
         igScraping(inputan)
     else:
         messagebox.showerror("Error", 'text field cannot be empty')
 
+def closeWindow():
+    root.destroy()
+
 label_1 = tk.Label(root, text="Input Username")
 entry_1 = tk.Entry(root)
 button_1 = tk.Button(root, text='start analyzing', command=getInputan, bg="green", fg="white")
+button_close = tk.Button(root, text='exit', command=closeWindow, bg='red', fg="white")
 
+button_close.pack()
 label_1.pack(pady=10)
-
 entry_1.pack(pady=5)
 button_1.pack()
 

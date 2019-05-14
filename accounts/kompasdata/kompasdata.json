@@ -1,0 +1,1730 @@
+{
+    "GraphImages": [
+        {
+            "__typename": "GraphSidecar",
+            "comments": {
+                "data": []
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/c0b57c888d171564f59409be6c5e1cb8/5D526BF7/t51.2885-15/e35/s1080x1080/59883087_2237666616485762_9093467706765253284_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0MzU4MjUwOTg4ODgzMDE4NA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 28
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Data pribadi yang diperjualbelikan secara bebas dapat dijadikan bekal untuk melacak perilaku pemilik data lewat akun media sosial. Tak hanya empuk sebagai sasaran pemasaran produk, pemilik data semakin rawan sebagai target kejahatan.⁣⁣\n⁣⁣\nDari penelusuran Kompas, sebagian pemilik kartu kredit yang data pribadinya diperjualbelikan dapat dikonfirmasi. Mereka umumnya nasabah dengan batas kredit di atas Rp 50 juta. ⁣⁣\n⁣⁣\n#InfografikKompas berikut memberikan informasi mengenai perlindungan data pribadi nasabah. Simak informasi selengkapnya dalam artikel \"Data Dipakai untuk Kejahatan\" di Harian Kompas dan Kompas.id⁣⁣\n⁣⁣\n#HarianKompas #KompasID #KompasData #LitbangKompas #LiputanTematik #Ekonomi #Informasi"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2043582521993345399",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxcQ3n0nDl3",
+            "tags": [
+                "KompasID",
+                "InfografikKompas",
+                "Ekonomi",
+                "HarianKompas",
+                "LiputanTematik",
+                "LitbangKompas",
+                "Informasi",
+                "KompasData"
+            ],
+            "taken_at_timestamp": 1557834042,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/79ce559cb7c829f850372748aad76f74/5D5C44B6/t51.2885-15/e35/s150x150/59883087_2237666616485762_9093467706765253284_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0MzU4MjUwOTg4ODgzMDE4NA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/64e1a085633d45d6341da2fc87ad8465/5D709DB0/t51.2885-15/e35/s240x240/59883087_2237666616485762_9093467706765253284_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0MzU4MjUwOTg4ODgzMDE4NA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/030bfb9f75c4b7a0d2509bf112025df1/5D5A7BCE/t51.2885-15/e35/s320x320/59883087_2237666616485762_9093467706765253284_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0MzU4MjUwOTg4ODgzMDE4NA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/da1c51dc1de4f3cb3b63c444325d2f19/5D764D89/t51.2885-15/e35/s480x480/59883087_2237666616485762_9093467706765253284_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0MzU4MjUwOTg4ODgzMDE4NA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/b0127ceb19cf439d36f1c11e6ec37435/5D5A4233/t51.2885-15/sh0.08/e35/s640x640/59883087_2237666616485762_9093467706765253284_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0MzU4MjUwOTg4ODgzMDE4NA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/b0127ceb19cf439d36f1c11e6ec37435/5D5A4233/t51.2885-15/sh0.08/e35/s640x640/59883087_2237666616485762_9093467706765253284_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0MzU4MjUwOTg4ODgzMDE4NA%3D%3D.2",
+            "urls": [
+                "https://scontent-sin2-1.cdninstagram.com/vp/b3782a5fff8b48c8fb34835eef27d381/5D526BF7/t51.2885-15/e35/s1080x1080/59883087_2237666616485762_9093467706765253284_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=102&ig_cache_key=MjA0MzU4MjUwOTg4ODgzMDE4NA%3D%3D.2",
+                "https://scontent-sin2-1.cdninstagram.com/vp/1cc310bac6e07c3f6af2549f85f4eee7/5D67319B/t51.2885-15/e35/s1080x1080/59489068_336560637043780_7375742522162020491_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=104&ig_cache_key=MjA0MzU4MjUwOTg3MTg0NjkwMw%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1557823068,
+                        "id": "17854947127411477",
+                        "owner": {
+                            "id": "13325596551",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/c4b636400facb3d6ff3dae45b593471f/5D65F1B5/t51.2885-19/s150x150/58679531_2695984000417673_8190076022960422912_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105",
+                            "username": "duniacell_"
+                        },
+                        "text": "Iphone X original cuma 2.800.000 kak, buruan cek ig kita ❤️"
+                    },
+                    {
+                        "created_at": 1557825811,
+                        "id": "17863000159377232",
+                        "owner": {
+                            "id": "1985413094",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/51afeab1d269d40eba961de7c5c6dee4/5D740A36/t51.2885-19/s150x150/14128867_1635593740066131_1438204998_a.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=103",
+                            "username": "mas.ibrahim"
+                        },
+                        "text": "Mengatasi banjir dan macet akan lebih mudah kalau jadi presiden. -Dilan, 2014-"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/83169f7ff53f44fb88d76203bcf113c6/5D695444/t51.2885-15/e35/s1080x1080/58468460_2274810942791906_7724011310304293816_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=1&ig_cache_key=MjA0MzQ5MDIzNDQyODk4MjA4OA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 68
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Di tengah penanganan banjir yang masih berproses, pemerintah dan warga tetap waspada karena cuaca belum bersahabat. Selain gelombang tinggi, saat ini sebagian wilayah Indonesia masih berpotensi dilanda hujan, termasuk Jakarta dan sekitarnya. ⁣\n⁣\n#InfografikKompas berikut memberikan sebagian informasi mengenai banjir di Jakarta 2019. Simak informasi selengkapnya dalam artikel \"Jaring Sampah Jadi Solusi\" di Harian Kompas dan Kompas.id⁣\n⁣\n#HarianKompas #KompasID #KompasData #LitbangKompas #Banjir #Jakarta"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 2
+            },
+            "gating_info": null,
+            "id": "2043490245862642456",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "Bxb740-nlMY",
+            "tags": [
+                "KompasID",
+                "InfografikKompas",
+                "HarianKompas",
+                "Banjir",
+                "Jakarta",
+                "LitbangKompas",
+                "KompasData"
+            ],
+            "taken_at_timestamp": 1557823042,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/19dca79307cfc2bed15d61ce55caff08/5D6B4905/t51.2885-15/e35/s150x150/58468460_2274810942791906_7724011310304293816_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=1&ig_cache_key=MjA0MzQ5MDIzNDQyODk4MjA4OA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/e0a9f272af247f43c7026eab4b723733/5D747D03/t51.2885-15/e35/s240x240/58468460_2274810942791906_7724011310304293816_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=1&ig_cache_key=MjA0MzQ5MDIzNDQyODk4MjA4OA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/8d970fb52d2a7f720a3c7c73b33c577e/5D60E97D/t51.2885-15/e35/s320x320/58468460_2274810942791906_7724011310304293816_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=1&ig_cache_key=MjA0MzQ5MDIzNDQyODk4MjA4OA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/abc86e2ab150dfdd9981b4324fcd8056/5D69BA3A/t51.2885-15/e35/s480x480/58468460_2274810942791906_7724011310304293816_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=1&ig_cache_key=MjA0MzQ5MDIzNDQyODk4MjA4OA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/16c594a8bfdbdf1af585c881ac78c5e2/5D655B80/t51.2885-15/sh0.08/e35/s640x640/58468460_2274810942791906_7724011310304293816_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=1&ig_cache_key=MjA0MzQ5MDIzNDQyODk4MjA4OA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/16c594a8bfdbdf1af585c881ac78c5e2/5D655B80/t51.2885-15/sh0.08/e35/s640x640/58468460_2274810942791906_7724011310304293816_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=1&ig_cache_key=MjA0MzQ5MDIzNDQyODk4MjA4OA%3D%3D.2",
+            "urls": [
+                "https://instagram.fcgk18-1.fna.fbcdn.net/vp/83169f7ff53f44fb88d76203bcf113c6/5D695444/t51.2885-15/e35/s1080x1080/58468460_2274810942791906_7724011310304293816_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=1&ig_cache_key=MjA0MzQ5MDIzNDQyODk4MjA4OA%3D%3D.2",
+                "https://scontent-sin2-1.cdninstagram.com/vp/7eabd7d61823cf2d57a65cd5ac7a220d/5D645F28/t51.2885-15/e35/s1080x1080/59337478_326515101356637_1049931724773899991_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=109&ig_cache_key=MjA0MzQ5MDIzNDQxMjI4NDMzNw%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1557747289,
+                        "id": "18065639476036257",
+                        "owner": {
+                            "id": "51190413",
+                            "profile_pic_url": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/532ea777d33c556e2b925b664e0b8962/5D61FD4C/t51.2885-19/11356997_1615731765382536_544775901_a.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100",
+                            "username": "faizalazqi"
+                        },
+                        "text": "Bisa di kategorikan kriminal ga itu?"
+                    },
+                    {
+                        "created_at": 1557747571,
+                        "id": "18066761554047051",
+                        "owner": {
+                            "id": "789405875",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/af473b0ce8cd60026be94d37324233f5/5D6C7366/t51.2885-19/s150x150/58409445_545889399272385_2865201867464376320_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=109",
+                            "username": "melvintheodore_"
+                        },
+                        "text": "Saya sering banget dan sangat risih sering banget di telepon di jam kerja! Harus gimana ya?"
+                    },
+                    {
+                        "created_at": 1557747686,
+                        "id": "18065618074050507",
+                        "owner": {
+                            "id": "13325596551",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/c4b636400facb3d6ff3dae45b593471f/5D65F1B5/t51.2885-19/s150x150/58679531_2695984000417673_8190076022960422912_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105",
+                            "username": "duniacell_"
+                        },
+                        "text": "Iphone X original cuma 2.800.000 kak, buruan cek ig kita ❤️"
+                    },
+                    {
+                        "created_at": 1557747703,
+                        "id": "18033955390193215",
+                        "owner": {
+                            "id": "7567244023",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/19e3fe83c7937480ea958bea695113af/5D51BE8F/t51.2885-19/s150x150/55937665_369835966953138_4763973034618912768_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=106",
+                            "username": "saya_arriel"
+                        },
+                        "text": "tempohari saya download aplikasi ayojagatps diminta masukin no ktp nik no telpon dan nama ibu kandung.."
+                    },
+                    {
+                        "created_at": 1557748945,
+                        "id": "17884220869343689",
+                        "owner": {
+                            "id": "811500",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/5103fa9fdac41f18f3b00f320739b572/5D7131CE/t51.2885-19/10818081_368926126617702_186722319_a.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=106",
+                            "username": "megatruh84"
+                        },
+                        "text": "langsung block saja nomornya"
+                    },
+                    {
+                        "created_at": 1557749752,
+                        "id": "17859769996403877",
+                        "owner": {
+                            "id": "983902983",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/b2f16a2aee6c9e135fbebaafe3ba4a34/5D7209ED/t51.2885-19/s150x150/49696390_581100062303411_2859286232913936384_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111",
+                            "username": "hudacahjurang"
+                        },
+                        "text": "Selamat anda menerima hadiah **** sebesar Rp.175.000.000 😂, kadang penawaran asuransi kartu kredit. Ditelpon berkali2 duh."
+                    },
+                    {
+                        "created_at": 1557753104,
+                        "id": "18032847124182114",
+                        "owner": {
+                            "id": "2269365613",
+                            "profile_pic_url": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/92bba5fa0cf5637fc6fea26d6d7622d4/5D67AE8C/t51.2885-19/s150x150/59582095_346703942862096_5110324566077472768_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100",
+                            "username": "senopati_anta_djaya_dilaga"
+                        },
+                        "text": "setiap hari, ampe hp rusak dan ganti baru 😐"
+                    },
+                    {
+                        "created_at": 1557754379,
+                        "id": "17954954500278763",
+                        "owner": {
+                            "id": "1450265676",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/f81839df48ae0f1e1265690cdab1ae62/5D65DCBA/t51.2885-19/s150x150/57341041_426743551454730_2099265201219043328_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=106",
+                            "username": "meldinwild"
+                        },
+                        "text": "Ga asuransi, ga CC ga kartu pascabayar 😩😩"
+                    },
+                    {
+                        "created_at": 1557758301,
+                        "id": "17998696720211746",
+                        "owner": {
+                            "id": "8300309280",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/82eaafd52ebb22218c0cf36ca16282f8/5D58DFFF/t51.2885-19/s150x150/37069153_434830817017874_8842576156172484608_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=102",
+                            "username": "dewaningasmara"
+                        },
+                        "text": "Sudah dari dulu terjadi"
+                    },
+                    {
+                        "created_at": 1557776753,
+                        "id": "17859982453398867",
+                        "owner": {
+                            "id": "145343893",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/0124dadc4a59e01238d0155590780ee3/5D70DFE1/t51.2885-19/s150x150/15535127_1196204963798422_1738603912472035328_a.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110",
+                            "username": "espewe"
+                        },
+                        "text": "saya blokir nomor spam SMS ya tetep aja masuk terus, mereka ganti2 nomornya. ITU REGULASI KOMINFO BUAT APA DONG YA?"
+                    },
+                    {
+                        "created_at": 1557781619,
+                        "id": "18001651000204414",
+                        "owner": {
+                            "id": "6212727068",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/64e7d94c4889e4899295b99e3daeec45/5D6CB4AC/t51.2885-19/s150x150/54230423_2096386850451422_8779815379624001536_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=102",
+                            "username": "siti_hadjar05"
+                        },
+                        "text": "Tiap hari hampir 6-10 sms"
+                    },
+                    {
+                        "created_at": 1557784384,
+                        "id": "17884380607342255",
+                        "owner": {
+                            "id": "7098735314",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/2c4d286a6384e3fc44e089f7c429ced3/5D6F0282/t51.2885-19/s150x150/27581858_187441922020975_4446802284063490048_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107",
+                            "username": "viendawintari"
+                        },
+                        "text": "iya ini mah dr dulu"
+                    },
+                    {
+                        "created_at": 1557790988,
+                        "id": "18065542474005511",
+                        "owner": {
+                            "id": "515757882",
+                            "profile_pic_url": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/e59baecd67a3dd7d7f07d2dcd5adc18c/5D5C8568/t51.2885-19/s150x150/58453979_2419004998130833_2636185960609480704_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101",
+                            "username": "bagusidian"
+                        },
+                        "text": "Yg sering HP.. kalau ini saya sdh pasang aplikasi jadi mudah mendeteksinya, kalau yg nomer pstn menjadi satu dengan indoxxxx ini yg susah diblokir, dan sangat mengganggu"
+                    },
+                    {
+                        "created_at": 1557796220,
+                        "id": "17844273181446091",
+                        "owner": {
+                            "id": "5372568088",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/05c3ad730471dff045ceea9692db857d/5D61F2C4/t51.2885-19/s150x150/39793259_1694867977307518_6740340598521200640_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110",
+                            "username": "ninja.nusantara"
+                        },
+                        "text": "@saya_arriel nasib ente tong.. Siap2 aja data ente dijual. 😆😆😆"
+                    },
+                    {
+                        "created_at": 1557803580,
+                        "id": "17879592250353301",
+                        "owner": {
+                            "id": "47805477",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/0caf984a4e0be8751212c31f069b37fa/5D68887C/t51.2885-19/s150x150/53383256_2566303303411916_8664201066243424256_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108",
+                            "username": "bagaskaratio"
+                        },
+                        "text": "Saya juga ni 2-3 hari selalu dpt tawaran pinjaman dan cc. Solusinya bagaimana ya"
+                    },
+                    {
+                        "created_at": 1557803946,
+                        "id": "17999062690212745",
+                        "owner": {
+                            "id": "6546077740",
+                            "profile_pic_url": "https://instagram.fitm1-1.fna.fbcdn.net/vp/7232cf744c77f382228d75d1f6ceb3e1/5D5480F1/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?_nc_ht=instagram.fitm1-1.fna.fbcdn.net",
+                            "username": "andreas_yap"
+                        },
+                        "text": "Sudah menjadi informasi umum,cuman kita selaku nasabah tidak tahu hrs bagaimana lg,padahal setiap pengajuan kartu kredit tetap di check list dibagian keberatan data utk dibagikan"
+                    },
+                    {
+                        "created_at": 1557813047,
+                        "id": "18065989588044133",
+                        "owner": {
+                            "id": "504929990",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/fe2d825667b4fe924690f7e579a11855/5D9FAFD7/t51.2885-19/s150x150/21296883_341816442936237_7146823175362314240_a.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=109",
+                            "username": "batistagalih"
+                        },
+                        "text": "@monicavalencias"
+                    },
+                    {
+                        "created_at": 1557814834,
+                        "id": "17860000675394836",
+                        "owner": {
+                            "id": "1966691630",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/67fe3c7806ad99ea4e49720e5a2b8ab5/5D776893/t51.2885-19/s150x150/41532985_265850167390048_6451314957635026944_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=104",
+                            "username": "lioemil"
+                        },
+                        "text": "\"pengumpulan pendapat melalui telepon......\" apakah survey ini termasuk kebocoran data?"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/b57537f0e7be6a57e776e9a2209e6b00/5D775B75/t51.2885-15/e35/s1080x1080/60216215_1281619602014942_3801077354215063422_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0Mjg0NzkxNTYyNzUwNDM1Mg%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 419
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Data pribadi dijual bebas untuk kepentingan pemasaran produk perbankan. Tenaga pemasaran kartu kredit dan pegawai bank diduga terlibat.⁣\n⁣\nInformasi di data pribadi yang diperjualbelikan secara bebas tersebut tak hanya berupa nama, alamat dan nomor telepon hingga nama ibu kandung, tetapi juga kemampuan finansial. Jenis informasi yang  hanya dapat diakses dari lembaga resmi. ⁣⁣⁣⁣⁣⁣⁣⁣\n⁣⁣⁣⁣⁣⁣⁣⁣\nInvestigasi Kompas menemukan, di kalangan tenaga pemasaran kartu kredit, data pribadi diperjualbelikan dengan harga bervariasi. ⁣⁣⁣⁣⁣⁣\n⁣⁣⁣⁣⁣⁣⁣⁣\n#InfografikKompas berikut memberikan informasi pendapat masyarakat mengenai risiko terkait kebocoran data pribadi. Simak informasi selengkapnya dalam artikel “Data Pribadi Dijual Bebas” di Harian Kompas dan Kompas.id⁣⁣⁣⁣⁣⁣⁣⁣\n⁣⁣⁣⁣⁣⁣⁣⁣\n#HarianKompas #KompasID #KompasData #LitbangKompas #Financial #Data #Informasi #Ekonomi"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 18
+            },
+            "gating_info": null,
+            "id": "2042847915627504352",
+            "is_video": false,
+            "media_preview": "ACoqlkYhyMkc/wB5R29D0pDJ/tEZ/wBte3H6mrhUHqAfwpwt0cbjx244GPyrihaTsdE7xV0VIp1AwxHHcsDn8ql8+P8AvL+dS/Yo/f8AP/61H9nx9g35/wD1q29jF9WY+0n2X3kYnQ9GU/jSefH/AHh+dT/2fFjncO3X/wCtR/Z0X+1+f/1qXsY92HtJ/wAq+9kHf/65q7bjcnpzVI1dtjlfxrOn8SNp7CsrHodv4Z/nSiOUcB/0FRtxnHJ9+KZ+8P8ACP8Avr/61dN/60Ob7/x/QtqGA+c5/ClqqpkzyvT/AGv/AK1Wh0p3uNGdtq1BwvHrVeiuGMuV33OtrmVi4ygHpn6Z/wAacBxx+X+TVCkNbe2/u/j/AMAy9n5/gaIHr/n9aKzaWj2vl+P/AAA9n5/gf//Z",
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxZp1sVH-Lg",
+            "tags": [
+                "Financial",
+                "KompasID",
+                "InfografikKompas",
+                "Ekonomi",
+                "HarianKompas",
+                "Data",
+                "LitbangKompas",
+                "Informasi",
+                "KompasData"
+            ],
+            "taken_at_timestamp": 1557746470,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/ad81ea95c430d68f701b0714ce124d9d/5D631734/t51.2885-15/e35/s150x150/60216215_1281619602014942_3801077354215063422_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0Mjg0NzkxNTYyNzUwNDM1Mg%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/c1a29ff5a76047a2fe546be562d78d79/5D5AB532/t51.2885-15/e35/s240x240/60216215_1281619602014942_3801077354215063422_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0Mjg0NzkxNTYyNzUwNDM1Mg%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/25e8660ae4e76f3d1ee5bf633407bcd7/5D64F44C/t51.2885-15/e35/s320x320/60216215_1281619602014942_3801077354215063422_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0Mjg0NzkxNTYyNzUwNDM1Mg%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/67c8ddcdcbcc8135fa7a327d89d95b12/5D72F50B/t51.2885-15/e35/s480x480/60216215_1281619602014942_3801077354215063422_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0Mjg0NzkxNTYyNzUwNDM1Mg%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/2f1a122d9cdc78b9043799046264d919/5D5170B1/t51.2885-15/sh0.08/e35/s640x640/60216215_1281619602014942_3801077354215063422_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0Mjg0NzkxNTYyNzUwNDM1Mg%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/2f1a122d9cdc78b9043799046264d919/5D5170B1/t51.2885-15/sh0.08/e35/s640x640/60216215_1281619602014942_3801077354215063422_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0Mjg0NzkxNTYyNzUwNDM1Mg%3D%3D.2",
+            "urls": [
+                "https://instagram.fcgk18-2.fna.fbcdn.net/vp/b57537f0e7be6a57e776e9a2209e6b00/5D775B75/t51.2885-15/e35/s1080x1080/60216215_1281619602014942_3801077354215063422_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=102&ig_cache_key=MjA0Mjg0NzkxNTYyNzUwNDM1Mg%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1557733659,
+                        "id": "18023760913169254",
+                        "owner": {
+                            "id": "13325596551",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/c4b636400facb3d6ff3dae45b593471f/5D65F1B5/t51.2885-19/s150x150/58679531_2695984000417673_8190076022960422912_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105",
+                            "username": "duniacell_"
+                        },
+                        "text": "Promo beli 1 gratis 1 segera berakhir kak, langsung cek ig kita ❤️"
+                    },
+                    {
+                        "created_at": 1557733713,
+                        "id": "17877093688360085",
+                        "owner": {
+                            "id": "1809470012",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/390e2aecee181a97dd9e528990b0fac5/5D5E4035/t51.2885-19/11055987_1569612963305671_144432685_a.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107",
+                            "username": "jopan96"
+                        },
+                        "text": "Selama tetap sehat dalam menjaga makanan, tetap olah raga, cukup istirahat dan palinh penting bebas stress. Kunci sehat panjang umur 🙂👍"
+                    },
+                    {
+                        "created_at": 1557833156,
+                        "id": "17931191899294608",
+                        "owner": {
+                            "id": "207426302",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/16db6e9c09d9b8209c653f01e3a50577/5D74911E/t51.2885-19/s150x150/20481847_1985252971712344_6923686971361460224_a.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=104",
+                            "username": "ikachandrav"
+                        },
+                        "text": "How? I need more information, not just a statement."
+                    },
+                    {
+                        "created_at": 1557833982,
+                        "id": "17844447952445961",
+                        "owner": {
+                            "id": "1681607129",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/67c1bb5df5cb0b54c4db36ff57cfd407/5D69B3D9/t51.2885-19/11007851_1625447971010091_950003067_a.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=103",
+                            "username": "kompasdata"
+                        },
+                        "text": "@ikachandrav Halo Sahabat Data, Simak kembali informasi selengkapnya dalam artikel “Puasa Bisa Bantu Tubuh Cegah Kanker” di Kompas.id ya :)"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-sin2-1.cdninstagram.com/vp/92c12602e817f78a975cedb5ccca815f/5D7883CA/t51.2885-15/e35/s1080x1080/58408889_2168683209919751_561166643074203749_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjA0MjczNzI1NDg2Mzg4OTc4NQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 198
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Puasa bisa menjadi salah satu cara untuk mendukung kesehatan tubuh, salah satunya untuk mencegah kanker. Ketika puasa, proses pencernaan dalam tubuh akan menurun serta proses detoksifikasi akan meningkat. Selain itu, sel dalam tubuh akan beregenerasi sehingga dapat mencegah terbentuknya sel kanker.⁣⁣\n⁣⁣\nSimak kembali informasi selengkapnya dalam artikel “Puasa Bisa Bantu Tubuh Cegah Kanker” di Kompas.id⁣⁣\n⁣⁣\n#HarianKompas #KompasID #KompasData #Ramadhan #Puasa #Humaniora #Kesehatan #InfografikKompas"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 4
+            },
+            "gating_info": null,
+            "id": "2042737254863889785",
+            "is_video": false,
+            "media_preview": "ACoq5zHH4U7oD9RVlCwjHykgggHP19jT/MbGdrZ4/p7UrvsMhhzxgfU+lWM84qMu2MhTuPcnP6YFQ7jnPGfpTQi4DjsD9aSovNCjLHn2qH7SfQUxE0TYQcHof5/WntIFHIPP+fWqQY/hS7z61JRZNwuOMk+/+NRSSl+BwP51F1ox29aYhdgpCtIRS4NAC9OvIpuMf56U+NiWxnjHSm9qAAnIApVUE9ee1IvQ00E7h9aAHkEcHmmZ+tOJ5P1phoA//9k=",
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxZQrXdnmV5",
+            "tags": [
+                "Ramadhan",
+                "Humaniora",
+                "KompasID",
+                "InfografikKompas",
+                "Puasa",
+                "HarianKompas",
+                "Kesehatan",
+                "KompasData"
+            ],
+            "taken_at_timestamp": 1557733278,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/9385ccac2fbe97ab43a36120e37d91ec/5D5DE3DA/t51.2885-15/e35/s150x150/58408889_2168683209919751_561166643074203749_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjA0MjczNzI1NDg2Mzg4OTc4NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/f24580d442568ad7f2cbd9a4dadde935/5D6FA090/t51.2885-15/e35/s240x240/58408889_2168683209919751_561166643074203749_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjA0MjczNzI1NDg2Mzg4OTc4NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/a72cf1b953665cf575f232cd3445d289/5D570A2A/t51.2885-15/e35/s320x320/58408889_2168683209919751_561166643074203749_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjA0MjczNzI1NDg2Mzg4OTc4NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/e87a317d5c9cb78829b54d823e4e5151/5D739F70/t51.2885-15/e35/s480x480/58408889_2168683209919751_561166643074203749_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjA0MjczNzI1NDg2Mzg4OTc4NQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/a37e5604f61b0023e41b10930cc42880/5D5BF27D/t51.2885-15/sh0.08/e35/s640x640/58408889_2168683209919751_561166643074203749_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjA0MjczNzI1NDg2Mzg4OTc4NQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-sin2-1.cdninstagram.com/vp/a37e5604f61b0023e41b10930cc42880/5D5BF27D/t51.2885-15/sh0.08/e35/s640x640/58408889_2168683209919751_561166643074203749_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjA0MjczNzI1NDg2Mzg4OTc4NQ%3D%3D.2",
+            "urls": [
+                "https://scontent-sin2-1.cdninstagram.com/vp/92c12602e817f78a975cedb5ccca815f/5D7883CA/t51.2885-15/e35/s1080x1080/58408889_2168683209919751_561166643074203749_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjA0MjczNzI1NDg2Mzg4OTc4NQ%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1557710726,
+                        "id": "18037133887135905",
+                        "owner": {
+                            "id": "853190157",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/dc150cb00a459fe5dc182997e0b5a663/5D5F2F8B/t51.2885-19/s150x150/28751519_590869824588238_886743247194423296_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110",
+                            "username": "imem14"
+                        },
+                        "text": "gak ada yg minat, permainan tengkulak waktu panen."
+                    },
+                    {
+                        "created_at": 1557712230,
+                        "id": "17844054031445119",
+                        "owner": {
+                            "id": "13215895201",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/74c7e559e28ecd1c053897fbef48178d/5D73B239/t51.2885-19/s150x150/59022970_1601512873312411_7964327486706155520_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107",
+                            "username": "cvmekarsariardhi"
+                        },
+                        "text": "Terima jasa cetak🖨\n- buku 📗📗📗\n- Majalah 📰📰📰\n- Brosur 📄📄📄\n- Katalog 📃📃📃\n- Kalender 📅 📅 📅 \nTlpn 087870662093\nWa 087785379455"
+                    },
+                    {
+                        "created_at": 1557716537,
+                        "id": "17848095544437870",
+                        "owner": {
+                            "id": "5019759",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/9060c7bbef34ac648836746f41a5461f/5D5B09E6/t51.2885-19/11176295_841855482559787_1207691758_a.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111",
+                            "username": "riski_wijaya_"
+                        },
+                        "text": "Lebih menarik masuk kerja jadi karyawan pabrik, gaji besar banget + lemburan luar biasa loh"
+                    },
+                    {
+                        "created_at": 1557725709,
+                        "id": "17954631919277186",
+                        "owner": {
+                            "id": "3095040435",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/969ff99e69b16d0450caeca07b6aa142/5D560B7D/t51.2885-19/s150x150/56940441_1023286334536700_6102081249717780480_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108",
+                            "username": "marsons_setiawan"
+                        },
+                        "text": "Coba bisa tanyakan sarjana yang dibidang pertanian..."
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 767,
+                "width": 750
+            },
+            "display_url": "https://scontent-sin2-1.cdninstagram.com/vp/080fdb7fb8871c474fd14fd376ef26a2/5D724F06/t51.2885-15/e35/60086526_1795452540555908_155234639667106353_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MjU0NDk2MTYxOTg1MTgxNA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 321
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Sektor pertanian belum menjadi magnet pekerjaan bagi generasi muda di Karawang. Rendahnya penghasilan yang diterima turut menjadi penyebab enggannya anak muda bekerja sebagai petani. Kondisi ini memberikan efek domino bagi sektor pertanian di daerah ini.⁣\n⁣\nJika dilihat secara menyeluruh, hanya 1 dari 4 petani di daerah Tempuran (Karawang) yang masuk kategori petani muda. Hal ini mengindikasikan, ada suatu persoalan mendasar dalam sektor pertanian di daerah ini, yaitu regenerasi petani.⁣\n⁣\n#InfografikKompas berikut memberikan informasi mengenai petani milenial di Karawang. Simak informasi dan infografik selengkapnya dalam artikel “Krisis Petani Milenial di Daerah Lumbung Padi” di Kompas.id⁣\n⁣\n#HarianKompas #KompasID #KompaData #LitbangKompas #SurveiKompas #KajianData #Milenial⁣"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 4
+            },
+            "gating_info": null,
+            "id": "2042544961619851814",
+            "is_video": false,
+            "media_preview": "ACoq1iDzzjn1P6cU/av99v1q5VaVXByCQPqf8igBm1f7x/WpldF6Z/U/zpzglcDIPt1ojQjliSaAFEinvTwc0UtAFaVWHKkgfU/5FQzzlRsU4OBk9/8A9dXWdV6kDNY9w+2U/XI/LilaUtI7kt2Qi28jKe5JB5PPf/PNPguWiba+SvQg9qriWZfpkngDnPqf8P5U2RzIcng4ArnnJX54t83VHRQ29k1eOrv1Wp0NLVURucckcDvx0qyBXSYkbxq3pn1qvcWolAKnDAY9iKt7F9B+VGxfQflTTad0Jq+jMQ28o4wfw6VZt7MghpOAOgrS2L6D8qNi+g/KsuRX5ndu99Tf2jtypJK1tB1M3r6j86glYhsA4qBY1wOB+QrVK5g3Y//Z",
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxYk9IbHXom",
+            "tags": [
+                "KompasID",
+                "InfografikKompas",
+                "HarianKompas",
+                "KajianData",
+                "KompaData",
+                "LitbangKompas",
+                "SurveiKompas",
+                "Milenial"
+            ],
+            "taken_at_timestamp": 1557710355,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/2b234feaaf8d0530c9e7b7b827c4458e/5D5853D4/t51.2885-15/e35/c0.7.645.645/s150x150/60086526_1795452540555908_155234639667106353_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MjU0NDk2MTYxOTg1MTgxNA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/8c7dff2eaa2b952121843561d2a1d3b4/5D59CA9E/t51.2885-15/e35/c0.7.645.645/s240x240/60086526_1795452540555908_155234639667106353_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MjU0NDk2MTYxOTg1MTgxNA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/45582ee08f4b515c62a3cb7d0d0a2dbf/5D5C6C24/t51.2885-15/e35/c0.7.645.645/s320x320/60086526_1795452540555908_155234639667106353_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MjU0NDk2MTYxOTg1MTgxNA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/4ec7ef5894f516626f8d3660084f46f5/5D6A767E/t51.2885-15/e35/c0.7.645.645/s480x480/60086526_1795452540555908_155234639667106353_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MjU0NDk2MTYxOTg1MTgxNA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/17d27fe6ef906d4ce62f341782ccedc9/5D736B8A/t51.2885-15/sh0.08/e35/c0.7.645.645/s640x640/60086526_1795452540555908_155234639667106353_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MjU0NDk2MTYxOTg1MTgxNA%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://scontent-sin2-1.cdninstagram.com/vp/17d27fe6ef906d4ce62f341782ccedc9/5D736B8A/t51.2885-15/sh0.08/e35/c0.7.645.645/s640x640/60086526_1795452540555908_155234639667106353_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MjU0NDk2MTYxOTg1MTgxNA%3D%3D.2.c",
+            "urls": [
+                "https://scontent-sin2-1.cdninstagram.com/vp/080fdb7fb8871c474fd14fd376ef26a2/5D724F06/t51.2885-15/e35/60086526_1795452540555908_155234639667106353_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MjU0NDk2MTYxOTg1MTgxNA%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1557712238,
+                        "id": "17930824591294822",
+                        "owner": {
+                            "id": "13215895201",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/74c7e559e28ecd1c053897fbef48178d/5D73B239/t51.2885-19/s150x150/59022970_1601512873312411_7964327486706155520_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107",
+                            "username": "cvmekarsariardhi"
+                        },
+                        "text": "Terima jasa cetak🖨\n- buku 📗📗📗\n- Majalah 📰📰📰\n- Brosur 📄📄📄\n- Katalog 📃📃📃\n- Kalender 📅 📅 📅 \nTlpn 087870662093\nWa 087785379455"
+                    },
+                    {
+                        "created_at": 1557778981,
+                        "id": "17888839210328019",
+                        "owner": {
+                            "id": "2102269322",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/914c4cfcf1b0a9acfa0723535aa55550/5D62ECE5/t51.2885-19/s150x150/17265637_188538864970750_2534017982946869248_a.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110",
+                            "username": "abimerlin_recky"
+                        },
+                        "text": "Adnan Buyung Nasution-Adian Napitupulu-dll.. maybe.."
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-sin2-1.cdninstagram.com/vp/23e2618a0842937c891a3338af23ca6b/5D713CB0/t51.2885-15/e35/s1080x1080/58453985_2042935085833603_5612413898847269429_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjA0MjAyMjY5NzkyNTE0MTIzNA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 360
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "“Gerakan mahasiswa 1998 mempunyai corak yang berbeda dengan gerakan mahasiswa yang pernah terjadi sebelumnya di Indonesia. Yang menarik, tidak ada tokoh atau pemimpin yang tampil mengatasnamakan gerakan itu.”⁣\n⁣\n12 Mei Reformasi⁣\nSumber: Pemberitaan Kompas edisi 31 Mei 1998"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 2
+            },
+            "gating_info": null,
+            "id": "2042022697925141234",
+            "is_video": false,
+            "media_preview": "ACoqz5URnOV5yBkvj+EHOMdP60kS7gwSMEcA5Y+vGOnPHbtRJEXl5BAOOQCf4RVmO2ZNwV2TkD7p5GAc8emSP/1mqSVgbIPIc9IV/Et/8XSMjIpYpGNpCkYJOSM9zV1Y3C4LuOfQ5wOBtOOOKi+zAjBd8HBwcYz75PUetOyFdleG4ww8wLt9kUY/Q1qHyc8Dj6Cs2W3C42EHrncyj6d6b5Cjq6/nQ1ENQmDs5AYgfL0+g6CmxpIQRnJA455znitGF4kclj82FGCPYd6QNCzMQQc9emP51kWZ8kjEYGe4IP0FVm5H0/wrSliiH947vQr6Y/velVRbp6SH/vj/ABNAysCPQGpSo9Kl8hM42yc/7v8A9epWiAJ4b9P8KAIp4ZJX+QEjA9PSpIbaaMEuCBjjof5VXWVwMBmA+poM0n95vzNACNBJJ8qKTg+lKlu8Wdykt2UAn9RwP50edJ/eb8zTfOf+835mgB4iuTyFKj2GP/r05lmyfvVGJX/vH8zTt7ep/OgD/9k=",
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxWuNMdHOLy",
+            "tags": [],
+            "taken_at_timestamp": 1557648096,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/3e574bcea83de33e5f78dcce037a7b56/5D6D6CF1/t51.2885-15/e35/s150x150/58453985_2042935085833603_5612413898847269429_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjA0MjAyMjY5NzkyNTE0MTIzNA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/8539e3eda91b0c33543ac2cbc09c5e1a/5D6D04F7/t51.2885-15/e35/s240x240/58453985_2042935085833603_5612413898847269429_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjA0MjAyMjY5NzkyNTE0MTIzNA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/0524971b44472788ceefae59b71bff0b/5D5C1289/t51.2885-15/e35/s320x320/58453985_2042935085833603_5612413898847269429_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjA0MjAyMjY5NzkyNTE0MTIzNA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/4e5b11c30512786b7b4397e0d501d968/5D523ACE/t51.2885-15/e35/s480x480/58453985_2042935085833603_5612413898847269429_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjA0MjAyMjY5NzkyNTE0MTIzNA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/537d73895afd09458286430c41e5b209/5D6BDE74/t51.2885-15/sh0.08/e35/s640x640/58453985_2042935085833603_5612413898847269429_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjA0MjAyMjY5NzkyNTE0MTIzNA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-sin2-1.cdninstagram.com/vp/537d73895afd09458286430c41e5b209/5D6BDE74/t51.2885-15/sh0.08/e35/s640x640/58453985_2042935085833603_5612413898847269429_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjA0MjAyMjY5NzkyNTE0MTIzNA%3D%3D.2",
+            "urls": [
+                "https://scontent-sin2-1.cdninstagram.com/vp/23e2618a0842937c891a3338af23ca6b/5D713CB0/t51.2885-15/e35/s1080x1080/58453985_2042935085833603_5612413898847269429_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjA0MjAyMjY5NzkyNTE0MTIzNA%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1557556650,
+                        "id": "18047129512107162",
+                        "owner": {
+                            "id": "8571738278",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/20f0cbc95eb2813799bda303e5598365/5D6647F8/t51.2885-19/s150x150/56560769_274594356754877_243146980618928128_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105",
+                            "username": "forex_trading_room"
+                        },
+                        "text": "Good morning"
+                    },
+                    {
+                        "created_at": 1557668110,
+                        "id": "17888028460333853",
+                        "owner": {
+                            "id": "1200090729",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/c58c7fc432e273e0a13b263921179047/5D9F3FD0/t51.2885-19/s150x150/47585441_291157844871483_5200249537599373312_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=103",
+                            "username": "ryan_ab_ryan"
+                        },
+                        "text": "liverpool lebih nasionalis 👀"
+                    },
+                    {
+                        "created_at": 1557708230,
+                        "id": "18065419783002667",
+                        "owner": {
+                            "id": "12608164376",
+                            "profile_pic_url": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/c5ca82889ac36a14f2052aa337525c95/5D5325E9/t51.2885-19/s150x150/58775454_831568277216077_7283782342332645376_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101",
+                            "username": "annyeong.girls"
+                        },
+                        "text": "@spursofficial @hm_son7 👏"
+                    },
+                    {
+                        "created_at": 1557821578,
+                        "id": "18066290776061389",
+                        "owner": {
+                            "id": "4922909192",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/ff3a61485eecf9d4b5fe7de00df2600e/5D6DD8F2/t51.2885-19/s150x150/21569354_1479538245456176_7708127284430897152_a.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108",
+                            "username": "shandiardinata1989"
+                        },
+                        "text": "MU apakabar 😎😎😎😎"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1350,
+                "width": 1080
+            },
+            "display_url": "https://scontent-sin2-1.cdninstagram.com/vp/4a93154ed6db5bdbd957fe0ce87f2e2b/5D6CB77A/t51.2885-15/e35/p1080x1080/59893386_132710087821076_1044835358072649105_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MTIzNzk4MjE2NzM3MjIzNA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 672
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Sepanjang sejarah kompetisi sepakbola Liga Champions Eropa dan Liga Europa, baru kali ini finalis pada 2 kompetisi tersebut dikuasai oleh klub dari satu negara. Sebelumnya pernah ada finalis yang berasal dari kota yang sama pada final Liga Champions antara Real Madrid versus Atletico Madrid. Kali ini, Chelsea melawan Arsenal akan bertarung di final Liga Europa sebagai sesama klub London. Meskipun klub liga Inggris tahun ini digdaya di Eropa, namun jumlah pemain asal keempat klub finalis hanya berjumlah 28 pemain dan akan semakin kecil jika dilihat dari susunan pemain intinya.⁣\n⁣\n#InfografikKompas berikut memberikan gambaran mengenai jumlah pemain asli Inggris dan finalis 1 negara di liga champions dan liga europa. Simak juga infografik lengkapnya berjudul “Finalis dari Satu Negara” di Kompas.id⁣\n⁣\n#HarianKompas #KompasID #KompasData #UCL #UEL #EPL #Liverpool #Spurs #Chelsea #Arsenal #YNWA #KTBFFH #Liverpudlian #SpursFamily #ArsenalIndonesia"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 4
+            },
+            "gating_info": null,
+            "id": "2041237991772382681",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxT7yN5n-XZ",
+            "tags": [
+                "Liverpudlian",
+                "Spurs",
+                "UEL",
+                "KompasID",
+                "InfografikKompas",
+                "HarianKompas",
+                "EPL",
+                "Arsenal",
+                "SpursFamily",
+                "YNWA",
+                "Chelsea",
+                "ArsenalIndonesia",
+                "Liverpool",
+                "KTBFFH",
+                "UCL",
+                "KompasData"
+            ],
+            "taken_at_timestamp": 1557554552,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/b8192ac7f60542da83778a0eae0c2582/5D532238/t51.2885-15/e35/c0.180.1440.1440/s150x150/59893386_132710087821076_1044835358072649105_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MTIzNzk4MjE2NzM3MjIzNA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/c186723917fcb67bdcf4201b32f3a1bc/5D5FA672/t51.2885-15/e35/c0.180.1440.1440/s240x240/59893386_132710087821076_1044835358072649105_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MTIzNzk4MjE2NzM3MjIzNA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/fc37962a311a12dda924381bdc85709c/5D634DC8/t51.2885-15/e35/c0.180.1440.1440/s320x320/59893386_132710087821076_1044835358072649105_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MTIzNzk4MjE2NzM3MjIzNA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/ef2188341eb8d022e28a466f436a9d51/5D737D92/t51.2885-15/e35/c0.180.1440.1440/s480x480/59893386_132710087821076_1044835358072649105_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MTIzNzk4MjE2NzM3MjIzNA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/0108e248802ed2c056ec151192b47369/5D5F4523/t51.2885-15/sh0.08/e35/c0.180.1440.1440/s640x640/59893386_132710087821076_1044835358072649105_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MTIzNzk4MjE2NzM3MjIzNA%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://scontent-sin2-1.cdninstagram.com/vp/0108e248802ed2c056ec151192b47369/5D5F4523/t51.2885-15/sh0.08/e35/c0.180.1440.1440/s640x640/59893386_132710087821076_1044835358072649105_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MTIzNzk4MjE2NzM3MjIzNA%3D%3D.2.c",
+            "urls": [
+                "https://scontent-sin2-1.cdninstagram.com/vp/4a93154ed6db5bdbd957fe0ce87f2e2b/5D6CB77A/t51.2885-15/e35/p1080x1080/59893386_132710087821076_1044835358072649105_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MTIzNzk4MjE2NzM3MjIzNA%3D%3D.2",
+                "https://scontent-sin2-1.cdninstagram.com/vp/90c57d8164944d0defa6bf590923e65a/5D60416D/t51.2885-15/e35/p1080x1080/58695758_295449431405079_4877607808802746139_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=103&ig_cache_key=MjA0MTIzNzk4MjE1ODk1MjM3Mg%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1557541133,
+                        "id": "18034715581132361",
+                        "owner": {
+                            "id": "3062811219",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/6d8ccbcc9a25dfb9ac188ca9ec777b7a/5D5C0095/t51.2885-19/s150x150/59564957_350593838977718_338287781899927552_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=102",
+                            "username": "suraedi_amin"
+                        },
+                        "text": "Susi"
+                    },
+                    {
+                        "created_at": 1557542608,
+                        "id": "17946735106301728",
+                        "owner": {
+                            "id": "5638639579",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/004ce995182de176c2c13538ddad952a/5D536ABD/t51.2885-19/s150x150/44347262_321461688445805_597206466545319936_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105",
+                            "username": "yanlebert"
+                        },
+                        "text": "Pantesan Vietnam sewot...38 kapal nya di tenggelamkan Bu @susipudjiastuti115 😋😁😹😂😅"
+                    },
+                    {
+                        "created_at": 1557561555,
+                        "id": "18064305481010010",
+                        "owner": {
+                            "id": "3467261573",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/2d97ab068a447b15bca2baab332be412/5D542A06/t51.2885-19/s150x150/36897756_486143478504045_5151331230192500736_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=109",
+                            "username": "lind.paulie198"
+                        },
+                        "text": "Berita ginian sepi.. kampret tidak suka 😂"
+                    },
+                    {
+                        "created_at": 1557563922,
+                        "id": "18001169671206719",
+                        "owner": {
+                            "id": "1922094552",
+                            "profile_pic_url": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/bafd853fc3edca217ff27a52e59a2184/5D5F69B3/t51.2885-19/s150x150/27881317_298887687304464_7606222515249086464_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100",
+                            "username": "fathoni98"
+                        },
+                        "text": "@lind.paulie198 kampret kepanasan"
+                    },
+                    {
+                        "created_at": 1557615353,
+                        "id": "18038421940087114",
+                        "owner": {
+                            "id": "2369983351",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/2a3f19d4903f3186bbbe7ea3ad939ca0/5D5D6ABB/t51.2885-19/s150x150/46564016_759294967785278_1738190388725809152_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=102",
+                            "username": "ridwansunardi"
+                        },
+                        "text": "Vietnam ngelunjak ya ternyataa"
+                    },
+                    {
+                        "created_at": 1557615384,
+                        "id": "18064541563055701",
+                        "owner": {
+                            "id": "2369983351",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/2a3f19d4903f3186bbbe7ea3ad939ca0/5D5D6ABB/t51.2885-19/s150x150/46564016_759294967785278_1738190388725809152_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=102",
+                            "username": "ridwansunardi"
+                        },
+                        "text": "@lind.paulie198 karena Junjungan Si kampret minim bekerja dan prestasi 😊"
+                    },
+                    {
+                        "created_at": 1557703262,
+                        "id": "18065799475004909",
+                        "owner": {
+                            "id": "10712155779",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/03556a080a1ea3673d3320ad657b7731/5D5A2BF0/t51.2885-19/s150x150/57589910_2329908280405090_5409767873478393856_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110",
+                            "username": "denature.official.indonesia"
+                        },
+                        "text": "solusi mengatasi penyakit kelamin,cek ig kak"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-sin2-1.cdninstagram.com/vp/551715863015fdb7bf25a4cfc001257b/5D5B614B/t51.2885-15/e35/59951848_176728906603600_1250002826883790618_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=104&se=7&ig_cache_key=MjA0MTExMzMxOTExNDIzODIwNg%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 526
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Kebijakan melelang kapal pencuri ikan dinilai tidak menciptakan efek jera bagi para pencuri ikan. Oleh karena itu, Menteri Kelautan dan Perikanan Susi Pudjiastuti akan tetap melanjutkan kebijakannya menenggelamkan kapal-kapal asing pencuri ikan. Mulai 4 Mei 2019, misalnya, 51 kapal sitaan akan ditenggelamkan. Sebagian besar kapal sitaan yang akan ditenggelamkan berasal dari negara di sekitar Indonesia.⁣\n⁣\nPenangkapan dan penenggelaman kapal-kapal asing, menurut Susi, memberikan efek positif bagi sektor perikanan Indonesia. Stok ikan meningkat dari semula hanya 6,19 juta ton pada 1997 menjadi 12,5 juta ton pada 2016.⁣\n⁣\n#InfografikKompas berikut memberikan sebagian informasi mengenai penangkapan dan penenggelaman kapal di Indonesia. Simak kembali penjelasan dari infografik tersebut selengkapnya dalam artikel \"Menteri Susi Tak Akan Berhenti Tenggelamkan Kapal Pencuri Ikan\" (30 April 2019) dan \"13 Kapal Ikan Vietnam Ditenggelamkan\" (5 Mei 2019) di Kompas.id⁣\n⁣\n#HarianKompas #KompasID #KompasData #Kapal #Perikanan #IllegalFishing"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 7
+            },
+            "gating_info": null,
+            "id": "2041113319114238206",
+            "is_video": false,
+            "media_preview": "ACoqzlwOozUi7D7fif8ACqwcjgE1PMXjbaT09P8A61JjHZT2/X/Cg+WBnr9Cf8Kr55zR9pbtjH0FNRb2uFxzOvZcfjTNwo85mHP8hTM0WtoIs2sYlfa3TB/QVauu/wDnsKrwTiHnGevf1GKSW483Py4z7+wFKPx3l8NrETV1Hl3vd9CuemKmhtC6GRvlX+EdyfX6D9ajC544GPWpCxXhGIU9s1V2tF3X3L/MtrR236FdkKHBowalJUj39f8AJpOabfM7iXmMJpA1KWPTPFNqRjxg5ycUiqOcnntTaXpSGOLlvwpc0zJopiP/2Q==",
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxTfb_cH2j-",
+            "tags": [
+                "Perikanan",
+                "KompasID",
+                "InfografikKompas",
+                "Kapal",
+                "HarianKompas",
+                "IllegalFishing",
+                "KompasData"
+            ],
+            "taken_at_timestamp": 1557539690,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/0321eab11086e96e830977b180b63a5f/5D787109/t51.2885-15/e35/s150x150/59951848_176728906603600_1250002826883790618_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=104&ig_cache_key=MjA0MTExMzMxOTExNDIzODIwNg%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/efeba56d86c60108c4c05deb4ee5b1b4/5D707C43/t51.2885-15/e35/s240x240/59951848_176728906603600_1250002826883790618_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=104&ig_cache_key=MjA0MTExMzMxOTExNDIzODIwNg%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/82213f4524c1344bef4116b3773b7ebf/5D5B60F9/t51.2885-15/e35/s320x320/59951848_176728906603600_1250002826883790618_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=104&ig_cache_key=MjA0MTExMzMxOTExNDIzODIwNg%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/8e5153a0e0508c0a2620d3bfb729c240/5D5DAAA3/t51.2885-15/e35/s480x480/59951848_176728906603600_1250002826883790618_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=104&ig_cache_key=MjA0MTExMzMxOTExNDIzODIwNg%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/d406bb630d74bde4cea01d32a5680a19/5D6036AE/t51.2885-15/sh0.08/e35/s640x640/59951848_176728906603600_1250002826883790618_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=104&ig_cache_key=MjA0MTExMzMxOTExNDIzODIwNg%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-sin2-1.cdninstagram.com/vp/d406bb630d74bde4cea01d32a5680a19/5D6036AE/t51.2885-15/sh0.08/e35/s640x640/59951848_176728906603600_1250002826883790618_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=104&ig_cache_key=MjA0MTExMzMxOTExNDIzODIwNg%3D%3D.2",
+            "urls": [
+                "https://scontent-sin2-1.cdninstagram.com/vp/551715863015fdb7bf25a4cfc001257b/5D5B614B/t51.2885-15/e35/59951848_176728906603600_1250002826883790618_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=104&se=7&ig_cache_key=MjA0MTExMzMxOTExNDIzODIwNg%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1557494738,
+                        "id": "17863293508381762",
+                        "owner": {
+                            "id": "3305997888",
+                            "profile_pic_url": "https://instagram.fdoh1-1.fna.fbcdn.net/vp/c7ed54bb0ebe9a6219f3e5638a6994ed/5D5480F1/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?_nc_ht=instagram.fdoh1-1.fna.fbcdn.net",
+                            "username": "irwansyah45694"
+                        },
+                        "text": "MU mana woyyyyyy🤣🤣🤣🤣"
+                    },
+                    {
+                        "created_at": 1557527533,
+                        "id": "18020353711198944",
+                        "owner": {
+                            "id": "5906810658",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/f1aaa26070c19d7f40a0cc173f0758ac/5D7062CB/t51.2885-19/s150x150/50713354_324796748138981_9114287581297639424_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105",
+                            "username": "fanhash.ma"
+                        },
+                        "text": "MU mana MU ?!!!!"
+                    },
+                    {
+                        "created_at": 1557541807,
+                        "id": "18047896435098937",
+                        "owner": {
+                            "id": "6211464811",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/4d8339f411cdfa9b77367a4bad318383/5D65CF0A/t51.2885-19/s150x150/22352284_288015991603328_7112691899189690368_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108",
+                            "username": "prabowohadiherlambang"
+                        },
+                        "text": "Mang Ujang mana ???"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-sin2-1.cdninstagram.com/vp/795c7254ae06b83d9b6ff47193f4b4d0/5D6A6DE8/t51.2885-15/e35/s1080x1080/56328799_133686424389908_2345793345476864535_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MDY2ODg5Mzc0MDg1NDUyNw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 393
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Dalam 1 dekade terakhir, suara-suara miring menghantui Liga Primer Inggris. Mereka dilabeli ”jago kandang” karena mengklaim diri sebagai liga terbaik, tetapi tidak mampu menaklukkan dan mendominasi kompetisi Eropa. ⁣⁣⁣⁣\n⁣⁣⁣⁣\nStigma itu dimentalkan pada musim ini. Liverpool dan Tottenham akan berhadapan di Stadion Wanda Metropolitano, Madrid. Sedangkan Arsenal dan Chelsea akan menuntaskan duel Derbi London di Stadion Olimpiade Baku, Azerbaijan.⁣⁣⁣⁣\n⁣⁣⁣⁣\nKetatnya persaingan Liga Primer pada musim ini merupakan salah satu faktor terkuat yang menghasilkan dominasi di Eropa. Musim ini, 20 tim di liga domestik Inggris sangat kompetitif. Level kompetitif ini memicu kondisi tim untuk selalu berada dalam puncak performa, 4 kontestan final kompetisi Eropa sendiri berada di posisi 5 besar klasemen sementara Liga Inggris saat ini.⁣⁣⁣⁣\n⁣⁣⁣⁣\nSimak kembali informasi selengkapnya dalam artikel \"Sepak Bola Pulang ke Rumahnya\" di Kompas.id⁣⁣⁣⁣\n⁣⁣⁣⁣\n#InfografikKompas #HarianKompas #KompasID #KompasData #UCL #UEL #EPL #Liverpool #Spurs #Chelsea #Arsenal #Liverpudlian #YNWA #Spursfamily #KTBFFH #ArsenalIndonesia"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 3
+            },
+            "gating_info": null,
+            "id": "2040668893740854527",
+            "is_video": false,
+            "media_preview": "ACoqykTf0xx6nGamdFHVV9cbv/rVXXb/ABZ/D/69OGz+EMfrjH8qpq/9f8ElOxMUToAvH+16+h9qZsUcYXnn73TtjPvnP4UgVeMqc+23/CmsEHBVv/Hf8Ki3n/X3l3GSx/xjaB6Bs1XqV/Lx8u7Pvj+lRVQiyq5609ePulhn0OK1bbS1miWQuQXHQD/69TrpKgcO3r90f407isYu/jksfxprOTwWY57Z4rbOjIert/3yP8aT+xU/vt+Q/wAaQznmUdRn3z/+qojxXS/2Ih43t+X/ANeuZk+VyPQkfrQB11hdwpbxqzorAcgkZHJqyt5Bj/WJ+LD/ABrjcnH4UztRYDt/tlv/AM9E/wC+hSfbLf8A56J/30K4g0maBncC8t/+eif99CuHm5diOQWP86XJpKQH/9k=",
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxR6YwDnOz_",
+            "tags": [
+                "Liverpudlian",
+                "Spurs",
+                "UEL",
+                "KompasID",
+                "InfografikKompas",
+                "HarianKompas",
+                "EPL",
+                "Arsenal",
+                "YNWA",
+                "Chelsea",
+                "Spursfamily",
+                "ArsenalIndonesia",
+                "Liverpool",
+                "KTBFFH",
+                "UCL",
+                "KompasData"
+            ],
+            "taken_at_timestamp": 1557486710,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/71156262738fbeb73553369311b04f3a/5D7275F8/t51.2885-15/e35/s150x150/56328799_133686424389908_2345793345476864535_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MDY2ODg5Mzc0MDg1NDUyNw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/8efcdd0e3b499101f07ea83a392dcb18/5D53E0B2/t51.2885-15/e35/s240x240/56328799_133686424389908_2345793345476864535_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MDY2ODg5Mzc0MDg1NDUyNw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/679a082e1e12c9e4c55574ec2e9d9285/5D6BA508/t51.2885-15/e35/s320x320/56328799_133686424389908_2345793345476864535_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MDY2ODg5Mzc0MDg1NDUyNw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/da52914d4631b6ff9f0f40376336548e/5D540E52/t51.2885-15/e35/s480x480/56328799_133686424389908_2345793345476864535_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MDY2ODg5Mzc0MDg1NDUyNw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/413f21a39c460a2de6dbef604a29910c/5D750F5F/t51.2885-15/sh0.08/e35/s640x640/56328799_133686424389908_2345793345476864535_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MDY2ODg5Mzc0MDg1NDUyNw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-sin2-1.cdninstagram.com/vp/413f21a39c460a2de6dbef604a29910c/5D750F5F/t51.2885-15/sh0.08/e35/s640x640/56328799_133686424389908_2345793345476864535_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MDY2ODg5Mzc0MDg1NDUyNw%3D%3D.2",
+            "urls": [
+                "https://scontent-sin2-1.cdninstagram.com/vp/795c7254ae06b83d9b6ff47193f4b4d0/5D6A6DE8/t51.2885-15/e35/s1080x1080/56328799_133686424389908_2345793345476864535_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=108&ig_cache_key=MjA0MDY2ODg5Mzc0MDg1NDUyNw%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1557478781,
+                        "id": "17987244586224406",
+                        "owner": {
+                            "id": "8382832754",
+                            "profile_pic_url": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/02ad867e05cc154e39becb2ddf047bd3/5D59E7CC/t51.2885-19/s150x150/58409568_348454146026784_6032470176425836544_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100",
+                            "username": "gigaramadhan_257"
+                        },
+                        "text": "patut dikenang #menolaklupa sejarah bulu tangkis Indonesia"
+                    },
+                    {
+                        "created_at": 1557479554,
+                        "id": "17982099871245387",
+                        "owner": {
+                            "id": "270648275",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/e1d77d6e0062c5915f93302c31052dd0/5D65671F/t51.2885-19/s150x150/26866771_151907508806378_5093221310520098816_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=102",
+                            "username": "nurulardhiani"
+                        },
+                        "text": "Google hari ini😊"
+                    },
+                    {
+                        "created_at": 1557498550,
+                        "id": "18046469896115443",
+                        "owner": {
+                            "id": "2171465190",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/ed2758db6ed1ec46ccdedaeba5c6a122/5D6A6524/t51.2885-19/s150x150/44781093_499769647193397_671918221523156992_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=109",
+                            "username": "erlinalinda"
+                        },
+                        "text": "Colek @monovalen"
+                    },
+                    {
+                        "created_at": 1557506384,
+                        "id": "17842919518448566",
+                        "owner": {
+                            "id": "358229294",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/80de200c16d3b79deced73adaa51d06c/5D57E0EF/t51.2885-19/s150x150/47693324_212439109685923_6134718560171196416_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107",
+                            "username": "wahyukurniawan31"
+                        },
+                        "text": "@dwiimeida"
+                    },
+                    {
+                        "created_at": 1557541659,
+                        "id": "18037617886184735",
+                        "owner": {
+                            "id": "3911570680",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/2201da273a86229e1c6fa80847b0071a/5D5D4D66/t51.2885-19/s150x150/56173418_263539921195922_3108095500847415296_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=102",
+                            "username": "dwiimeida"
+                        },
+                        "text": "@wahyukurniawan31 😍😍"
+                    },
+                    {
+                        "created_at": 1557552903,
+                        "id": "18043368505125990",
+                        "owner": {
+                            "id": "5573291265",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/f1259d58d7105d36442cf6555e9a4541/5D6F64C7/t51.2885-19/s150x150/53870836_943547575853062_946017017104695296_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110",
+                            "username": "sangraja_radenwijaya"
+                        },
+                        "text": "😎🙏"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-sin2-1.cdninstagram.com/vp/6c127e98389c332087370e85d7e9d3f5/5D612AAC/t51.2885-15/e35/s1080x1080/59039766_320067132228845_3079116028990883041_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105&ig_cache_key=MjA0MDU5NDM4NjQxODM4NDg1OQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 392
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Foto berikut merupakan foto dari Minarni (kiri) dan Retno Kustiyah atlet bulutangkis Indonesia. Publik mungkin lebih mengenal Susi Susanti daripada Minarni. Tepat 75 tahun yang lalu, lahir Minarni Soedarjanto. Minarni menjadi kapten saat Indonesia pertama kali merebut piala uber 1975. Minarni sendiri mendapatkan julukan sebagai \"Ratu Bulutangkis\" oleh surat kabar Jepang, Nikkan Sport.⁣\n⁣\nSejumlah prestasi lain juga ditorehkan oleh Minarni antara lain Kejurnas PBSI (1959), Malaysia Open (1960, 1966, 1970), PON (1961, 1969), Asian Games (1962, 1966), All England (1968), US Open (1969), Canada Open (1969).⁣\n⁣\nTemukan juga arsip @hariankompas lainnya di kompasdata.id (tautan pada profil).⁣⁣\n⁣⁣\n#KompasData #ArsipKompas #PusatInformasiKompas #Bulutangkis #Badminton #Minarni #UberCup"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 6
+            },
+            "gating_info": null,
+            "id": "2040594386418384859",
+            "is_video": false,
+            "media_preview": "ACoqoYqaCPzGwemMmowpPAGSa0IIHQ724wMYHf60hle5hSMApkZ7GquPbOOtaF0rMBgEgck9f8/WobVdzE8fKMjPr/8AWoAr7k/u8/WoSKuXYw/bkdv0qkaQGzYxhR5jcZ6Z9O5/GtDFUV2zIF+66gfQgf5/OrxdR1IpgJjFQC3VCSvBb/P5VK0qjHNO4PIoAzZ7QMdwOD3rKYYJHpXRSMEGT0JxWBIcsT7n+dAGnChZh6ZrU8tTzgVSiABX61ebpQBXmAyvHT+vFRl9o+Xr2B9PT61LN0qGagCO43eXv+mPxrIPWtq5/wBQfoP5isSkB//Z",
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxRpchtH7_b",
+            "tags": [
+                "Minarni",
+                "Bulutangkis",
+                "Badminton",
+                "UberCup",
+                "PusatInformasiKompas",
+                "ArsipKompas",
+                "KompasData"
+            ],
+            "taken_at_timestamp": 1557477828,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/97f336b94fbd2ba0e29e92f8271c497b/5D6B05BC/t51.2885-15/e35/s150x150/59039766_320067132228845_3079116028990883041_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105&ig_cache_key=MjA0MDU5NDM4NjQxODM4NDg1OQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/84cb000782e4d7442938187515230d71/5D6E0AF6/t51.2885-15/e35/s240x240/59039766_320067132228845_3079116028990883041_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105&ig_cache_key=MjA0MDU5NDM4NjQxODM4NDg1OQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/e1f041c1605e88a7194116cfe501b715/5D69EE4C/t51.2885-15/e35/s320x320/59039766_320067132228845_3079116028990883041_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105&ig_cache_key=MjA0MDU5NDM4NjQxODM4NDg1OQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/f438a16b7e5a67840197ce6977833c4d/5D76C916/t51.2885-15/e35/s480x480/59039766_320067132228845_3079116028990883041_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105&ig_cache_key=MjA0MDU5NDM4NjQxODM4NDg1OQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/7fa8fa68d6b98f22df737050fdba1deb/5D61CA1B/t51.2885-15/sh0.08/e35/s640x640/59039766_320067132228845_3079116028990883041_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105&ig_cache_key=MjA0MDU5NDM4NjQxODM4NDg1OQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-sin2-1.cdninstagram.com/vp/7fa8fa68d6b98f22df737050fdba1deb/5D61CA1B/t51.2885-15/sh0.08/e35/s640x640/59039766_320067132228845_3079116028990883041_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105&ig_cache_key=MjA0MDU5NDM4NjQxODM4NDg1OQ%3D%3D.2",
+            "urls": [
+                "https://scontent-sin2-1.cdninstagram.com/vp/6c127e98389c332087370e85d7e9d3f5/5D612AAC/t51.2885-15/e35/s1080x1080/59039766_320067132228845_3079116028990883041_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105&ig_cache_key=MjA0MDU5NDM4NjQxODM4NDg1OQ%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments": {
+                "data": []
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/4503157d94dd2c1d829b9923024cc2dd/5D750499/t51.2885-15/e35/s1080x1080/57899678_109097150201017_5350074452736542798_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101&ig_cache_key=MjAzOTg3ODkxMTExMTQ2NDUwNQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 179
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Sahabat Data, apa yang membedakan durasi berpuasa di setiap negara atau daerah?⁣\n⁣\n#Infografik Kompas berikut menjelaskan penyebab perbedaan waktu puasa di setiap negara atau daerah.⁣\n⁣\nSimak juga informasi mengenai puasa dan Bulan Ramadhan lainnya di harian Kompas dan KompasID.⁣\n⁣\nKompasData #HarianKompas #KompasID #Ramadhan #Puasa #Hilal #Astronomi #Hijriah⁣"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2039878923577061871",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxPGxLAnfHv",
+            "tags": [
+                "Hilal",
+                "Ramadhan",
+                "KompasID",
+                "Puasa",
+                "HarianKompas",
+                "Infografik",
+                "Hijriah",
+                "Astronomi"
+            ],
+            "taken_at_timestamp": 1557392538,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/e260f0a38d10c0f7e7a12e9466295c9c/5D596989/t51.2885-15/e35/s150x150/57899678_109097150201017_5350074452736542798_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101&ig_cache_key=MjAzOTg3ODkxMTExMTQ2NDUwNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/4210f7aa4af60c25781fa127e3ba3aee/5D777CC3/t51.2885-15/e35/s240x240/57899678_109097150201017_5350074452736542798_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101&ig_cache_key=MjAzOTg3ODkxMTExMTQ2NDUwNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/26caa596a03334a89bfaeca850c9602c/5D5B6679/t51.2885-15/e35/s320x320/57899678_109097150201017_5350074452736542798_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101&ig_cache_key=MjAzOTg3ODkxMTExMTQ2NDUwNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/b754eef86acd75c80ff31fe9651476bb/5D70A023/t51.2885-15/e35/s480x480/57899678_109097150201017_5350074452736542798_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101&ig_cache_key=MjAzOTg3ODkxMTExMTQ2NDUwNQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/5ce35f72a6f7209b8a866b6bc12a720d/5D664E2E/t51.2885-15/sh0.08/e35/s640x640/57899678_109097150201017_5350074452736542798_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101&ig_cache_key=MjAzOTg3ODkxMTExMTQ2NDUwNQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/5ce35f72a6f7209b8a866b6bc12a720d/5D664E2E/t51.2885-15/sh0.08/e35/s640x640/57899678_109097150201017_5350074452736542798_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101&ig_cache_key=MjAzOTg3ODkxMTExMTQ2NDUwNQ%3D%3D.2",
+            "urls": [
+                "https://instagram.fcgk18-1.fna.fbcdn.net/vp/4503157d94dd2c1d829b9923024cc2dd/5D750499/t51.2885-15/e35/s1080x1080/57899678_109097150201017_5350074452736542798_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101&ig_cache_key=MjAzOTg3ODkxMTExMTQ2NDUwNQ%3D%3D.2",
+                "https://scontent-sin2-1.cdninstagram.com/vp/d9bded4d675c7ab47377d079deae0d64/5D6B0E2E/t51.2885-15/e35/s1080x1080/57313666_2469415846412070_6881171996303863116_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=106&ig_cache_key=MjAzOTg3ODkxMTA5NDgxODc0MQ%3D%3D.2",
+                "https://instagram.fcgk18-1.fna.fbcdn.net/vp/18b6b9927c14cf75f64c660ab4f3ee5a/5D5C02EE/t51.2885-15/e35/s1080x1080/58468854_138685373939425_4410554169186305989_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101&ig_cache_key=MjAzOTg3ODkxMTA4NjMxNzE3Ng%3D%3D.2",
+                "https://scontent-sin2-1.cdninstagram.com/vp/e79dff09add7492ff7b737dbd943a05f/5D58F277/t51.2885-15/e35/s1080x1080/58409448_1357396941079192_3741208829518759039_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=104&ig_cache_key=MjAzOTg3ODkxMTEwMzEwMjk0Nw%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1557396188,
+                        "id": "17987739406238878",
+                        "owner": {
+                            "id": "13325596551",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/c4b636400facb3d6ff3dae45b593471f/5D65F1B5/t51.2885-19/s150x150/58679531_2695984000417673_8190076022960422912_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=105",
+                            "username": "duniacell_"
+                        },
+                        "text": "Nice, like back ya jangan lupa 😊. Di follow juga boleh"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-sin2-1.cdninstagram.com/vp/7f78c9c89e6c369ef7aa7624051cf062/5D64B7D8/t51.2885-15/e35/s1080x1080/58410877_444709502957975_3261684381455114969_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjAzOTgwNzQ0Mzk3MTM3ODkxMQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 136
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Menghadapi suplai ruang perkantoran yang berlebih, tetapi serapan terbatas, pemilik gedung melakukan sejumlah strategi untuk mendongkrak tingkat okupansi. Strategi itu, antara lain, dengan mengarahkan peruntukan ruang kantor menjadi lebih fleksibel dengan jangka waktu sewa yang lebih pendek.⁣\n⁣\nBerdasarkan informasi yang dihimpun sampai dengan Rabu (8/5/2019), pemilik gedung menghadirkan, misalnya, konsep ruang kantor sewa yang lebih dinamis. Bahkan, tarif juga diturunkan. Tujuannya mendorong tingkat hunian perkantoran. Untuk merangkul penyewa, pemilik ataupun pengelola gedung juga mengadopsi konsep kantor yang efisien. Konsep kantor yang tradisional dan kaku mulai ditinggalkan.⁣\n⁣\n#InfografikKompas berikut memberikan informasi mengenai pasar perkantoran di Jakarta. Simak kembali informasi selengkapnya dalam artikel \"Konsep Kantor Usang Ditinggalkan\" di Harian Kompas dan Kompas.id⁣\n⁣\n#HarianKompas #KompasID #KompasData #Ekonomi #Bisnis #Perkantoran #Jakarta"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2039807443971378911",
+            "is_video": false,
+            "media_preview": "ACoqazsDxn9DThKfQn3wP8aURiQ4xuPbuac0XlclSv1GKegCB89iPrS5qMPSscUgJN30pM0wHIzS5oAVJTGwcc47HpVtJftp2MANozwT7D+tUEwxAbgfp+dXrQxKxOQBg9T6EUXS06itK91bl69yKe0aMllwUGO/Pb+tVmyRWvdSRmJgrKSccAjPUVlbkAwVJP1pN2KSuNXpSUpI/h4HpnNNpiEpKKKAFGKlGzHJbNRUUmrjTsOYDPy5I96bQKWmI//Z",
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxO2hAcHI7f",
+            "tags": [
+                "KompasID",
+                "InfografikKompas",
+                "Ekonomi",
+                "HarianKompas",
+                "Perkantoran",
+                "Jakarta",
+                "KompasData",
+                "Bisnis"
+            ],
+            "taken_at_timestamp": 1557384017,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/b8683a523d770868cc135fd6659e3303/5D6CC7C8/t51.2885-15/e35/s150x150/58410877_444709502957975_3261684381455114969_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjAzOTgwNzQ0Mzk3MTM3ODkxMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/6ed6f254cee8fd8848c9cfe847394875/5D59BA82/t51.2885-15/e35/s240x240/58410877_444709502957975_3261684381455114969_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjAzOTgwNzQ0Mzk3MTM3ODkxMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/6add7fd0ca77b00ce43cf7e5ab448936/5D6A5538/t51.2885-15/e35/s320x320/58410877_444709502957975_3261684381455114969_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjAzOTgwNzQ0Mzk3MTM3ODkxMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/c0fa889423fe3528e64ae852cf3d2a1a/5D75DD62/t51.2885-15/e35/s480x480/58410877_444709502957975_3261684381455114969_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjAzOTgwNzQ0Mzk3MTM3ODkxMQ%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/4989e535cd87a7c0b7190186839f72f0/5D55BD6F/t51.2885-15/sh0.08/e35/s640x640/58410877_444709502957975_3261684381455114969_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjAzOTgwNzQ0Mzk3MTM3ODkxMQ%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-sin2-1.cdninstagram.com/vp/4989e535cd87a7c0b7190186839f72f0/5D55BD6F/t51.2885-15/sh0.08/e35/s640x640/58410877_444709502957975_3261684381455114969_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjAzOTgwNzQ0Mzk3MTM3ODkxMQ%3D%3D.2",
+            "urls": [
+                "https://scontent-sin2-1.cdninstagram.com/vp/7f78c9c89e6c369ef7aa7624051cf062/5D64B7D8/t51.2885-15/e35/s1080x1080/58410877_444709502957975_3261684381455114969_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MjAzOTgwNzQ0Mzk3MTM3ODkxMQ%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": []
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/f37e2392a7748d14ad3ffb4fcdbfc1f2/5D6A2C0B/t51.2885-15/e35/s1080x1080/58409031_404178430164360_9222101921357044771_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjAzOTY1MzU4MTY3NTUxMjE5NA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 948
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Foto berikut merupakan keadaan langit Jakarta pada tahun 1979 sore, di mana kemunculan bulan sabit terhalang kabut yang diambil dari puncak Monas. Inilah tempat tertinggi di Jakarta pada saat itu, ketika tim Isbat Hilal dari Departemen Agama sedang menanti untuk menyaksikan munculnya bulan sebagai tanda tanggal 1 Ramadhan 1399 H.⁣\n⁣\nTemukan juga arsip @hariankompas lainnya di kompasdata.id (tautan pada profil).⁣\n⁣\n#KompasData #ArsipKompas #PusatInformasiKompas #Ramadhan #Hilal #Puasa"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2039653581675512194",
+            "is_video": false,
+            "media_preview": "ACoq2Q9P31nCTiniWkMu7xTS9UzMKaJM0ATkyD+Mf98j/GnedVMy1EZKQCD7v4VH5nal2kDrx9akEQfOzPHNMCLdml5HvS7Afamuu04zxQAjOuPSod9PIB46fj1qIxmgCwMnsTTxkdsfWolPFNj++B70ATyMGOFyKZIxcYbqOhzU0wGBVcdKAIytMK0E80lID//Z",
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxOTiBAn0GC",
+            "tags": [
+                "Hilal",
+                "Ramadhan",
+                "Puasa",
+                "PusatInformasiKompas",
+                "ArsipKompas",
+                "KompasData"
+            ],
+            "taken_at_timestamp": 1557365676,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/ee9ef4eeb7fbc3562f2e20f9308a7635/5D5E721B/t51.2885-15/e35/s150x150/58409031_404178430164360_9222101921357044771_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjAzOTY1MzU4MTY3NTUxMjE5NA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/3b6fa644220d3b466f1cfa6d2a23d41e/5D6A6551/t51.2885-15/e35/s240x240/58409031_404178430164360_9222101921357044771_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjAzOTY1MzU4MTY3NTUxMjE5NA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/63b5160a14b40c63736ace11c8ea8e12/5D55C4EB/t51.2885-15/e35/s320x320/58409031_404178430164360_9222101921357044771_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjAzOTY1MzU4MTY3NTUxMjE5NA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/50f7ac5daa6c2d22b4ae36557e172df4/5D54DAB1/t51.2885-15/e35/s480x480/58409031_404178430164360_9222101921357044771_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjAzOTY1MzU4MTY3NTUxMjE5NA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/8a5f9a456e1caf4a74ccb8205e399257/5D7437BC/t51.2885-15/sh0.08/e35/s640x640/58409031_404178430164360_9222101921357044771_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjAzOTY1MzU4MTY3NTUxMjE5NA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fcgk18-2.fna.fbcdn.net/vp/8a5f9a456e1caf4a74ccb8205e399257/5D7437BC/t51.2885-15/sh0.08/e35/s640x640/58409031_404178430164360_9222101921357044771_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjAzOTY1MzU4MTY3NTUxMjE5NA%3D%3D.2",
+            "urls": [
+                "https://instagram.fcgk18-2.fna.fbcdn.net/vp/f37e2392a7748d14ad3ffb4fcdbfc1f2/5D6A2C0B/t51.2885-15/e35/s1080x1080/58409031_404178430164360_9222101921357044771_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100&ig_cache_key=MjAzOTY1MzU4MTY3NTUxMjE5NA%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": [
+                    {
+                        "created_at": 1557335913,
+                        "id": "18041553571122541",
+                        "owner": {
+                            "id": "3990192316",
+                            "profile_pic_url": "https://scontent-sin2-1.cdninstagram.com/vp/9678fa8a0fb6f624c7fdd03e2177fae5/5D6F6EE1/t51.2885-19/s150x150/56533864_325355954825370_6714452507050901504_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=106",
+                            "username": "asromagirls"
+                        },
+                        "text": "grande💪💪💪💪"
+                    },
+                    {
+                        "created_at": 1557380076,
+                        "id": "18064786675014898",
+                        "owner": {
+                            "id": "2137107468",
+                            "profile_pic_url": "https://instagram.fcgk18-1.fna.fbcdn.net/vp/6f0bef710ee35a5dcb003ff3a73e45ff/5D516041/t51.2885-19/s150x150/46735314_2035984859794369_6108552468352729088_n.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=101",
+                            "username": "rendik73"
+                        },
+                        "text": "Yang paling kejam deportivo come back milan dg pemain bintang nya✊"
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-sin2-1.cdninstagram.com/vp/a295bd3163a51c6cd103c74122dadeee/5D730A81/t51.2885-15/e35/s1080x1080/58939984_116280986244139_476161837091350496_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjAzOTE0MTMzMTM2OTg2NjI4Ng%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 174
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Bukan \"The Reds\" jika tanpa keajaiban. Malam magis di Istanbul (Final 2005) berpindah ke Anfield. Misi hampir mustahil itu kembali lagi ke hadapan pasukan ”The Reds”, julukan Liverpool, saat menghadapi Barcelona pada leg kedua semifinal, Rabu (8/5/2019) dini hari WIB, di Stadion Anfield, Liverpool. Mereka tertinggal agregat 0-3 setelah ”diremukkan” di leg pertama.⁣⁣⁣\n⁣⁣⁣\n\"Keajaiban\" semalam, tidak hanya terjadi pada Liverpool saja. Kejadian hampir serupa juga pernah dialami oleh beberapa klub lainnya selama periode tahun 2000-an pada fase gugur liga champions. #InfografikKompas berikut memberikan beberapa \"comeback\" mustahil pada babak gugur liga champions yang dialami oleh beberapa klub. ⁣⁣⁣\n⁣⁣⁣\nApakah sahabat data punya kejadian serupa lainnya di liga champions? silakan bagikan di kolom komentar ya⁣⁣⁣\n⁣⁣⁣\nSimak kembali juga informasi mengenai liga champions dalam artikel \"Sejarah Mencatat Malam Ajaib di Anfield\" di Kompas.id⁣⁣⁣\n⁣⁣⁣\n#HarianKompas #KompasID #KompasData #UCL #Liverpool #Liverpudlian #Barca #Romanisti #Romanista #DeportivoLaCoruna #Milanisti #PSG #EPL #LaLiga #SerieA #Ligue1"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 2
+            },
+            "gating_info": null,
+            "id": "2039141331369866286",
+            "is_video": false,
+            "media_preview": "ACoqwkTuxwP89sipgIT1wPwP/wAVVUKSM0qnikMuZgA6ZP8An3qImMeh/D/7Ko49o+9T8pnpRb1AawV+U/LGP1JPNQ1OX7KAKgpgx/3fcU5WXoR/9b9aYc4xSfWhAyV9v8P+etQVMmD97/PXvTsR+350xEKnnP50Hrx0oK45GB7ZzRzSK3HZ55pwEeOSQf8APtRKx6Z4x0qChCZLIFXoaixRS0CHKpJxSkY701Cc/nTqRaP/2Q==",
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxMfDyvHjQu",
+            "tags": [
+                "Liverpudlian",
+                "Milanisti",
+                "Ligue1",
+                "SerieA",
+                "KompasID",
+                "InfografikKompas",
+                "HarianKompas",
+                "EPL",
+                "Romanisti",
+                "Barca",
+                "PSG",
+                "Liverpool",
+                "UCL",
+                "Romanista",
+                "DeportivoLaCoruna",
+                "LaLiga",
+                "KompasData"
+            ],
+            "taken_at_timestamp": 1557304611,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/4557fbd58dafd5ba8e948e5a3fcfc892/5D5F1B36/t51.2885-15/e35/s150x150/58939984_116280986244139_476161837091350496_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjAzOTE0MTMzMTM2OTg2NjI4Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/764b3c4b7af9c3377375dd5a95e0c5b5/5D672383/t51.2885-15/e35/s240x240/58939984_116280986244139_476161837091350496_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjAzOTE0MTMzMTM2OTg2NjI4Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/341d692b78887c89cb725a66edec6715/5D5BAD3B/t51.2885-15/e35/s320x320/58939984_116280986244139_476161837091350496_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjAzOTE0MTMzMTM2OTg2NjI4Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/d96e8352cdcc5cd844efc61fa3544cea/5D75DB67/t51.2885-15/e35/s480x480/58939984_116280986244139_476161837091350496_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjAzOTE0MTMzMTM2OTg2NjI4Ng%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/b9f271655d2fdfde4dc892c3c46b3e0a/5D5B1BD7/t51.2885-15/sh0.08/e35/s640x640/58939984_116280986244139_476161837091350496_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjAzOTE0MTMzMTM2OTg2NjI4Ng%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://scontent-sin2-1.cdninstagram.com/vp/b9f271655d2fdfde4dc892c3c46b3e0a/5D5B1BD7/t51.2885-15/sh0.08/e35/s640x640/58939984_116280986244139_476161837091350496_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjAzOTE0MTMzMTM2OTg2NjI4Ng%3D%3D.2",
+            "urls": [
+                "https://scontent-sin2-1.cdninstagram.com/vp/a295bd3163a51c6cd103c74122dadeee/5D730A81/t51.2885-15/e35/s1080x1080/58939984_116280986244139_476161837091350496_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=107&ig_cache_key=MjAzOTE0MTMzMTM2OTg2NjI4Ng%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments": {
+                "data": []
+            },
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 863,
+                "width": 750
+            },
+            "display_url": "https://scontent-sin2-1.cdninstagram.com/vp/06440f3bb27983f55860cd047edbbeab/5D610B37/t51.2885-15/e35/59760092_248769639301522_1295369797080416721_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110&ig_cache_key=MjAzOTAzODQ0OTM4NzY1MjQyMw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 88
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Pasokan gedung perkantoran baru yang terus bertambah di tengah pembelian ataupun sewa kantor yang tumbuh tipis mengakibatkan tingkat keterisian ruang perkantoran tertekan. Kondisi keterisian gedung kantor yang rendah di Jakarta ini diprediksi masih berlanjut hingga 2021.⁣⁣\n⁣⁣\nData yang dikutip Selasa (7/5/2019) menunjukkan, tingkat keterisian ruang kantor di CBD Jakarta pada triwulan I-2019 rata-rata 82,5%. Angka ini hanya tumbuh 1,4% secara tahunan. Sementara tingkat keterisian di kawasan non-CBD Jakarta sekitar 84,1% atau turun 0,3%. Meski demikian, beberapa gedung perkantoran di CBD Jakarta memiliki tingkat okupansi hanya 30-50%.⁣⁣\n⁣⁣\n#InfografikKompas berikut memberikan gambaran pasokan dan tingkat hunian perkantoran di Jakarta. Simak kembali informasi selengkapnya dalam artikel “Pasar Perkantoran Tertekan” di Kompas.id⁣⁣\n⁣⁣\n#HarianKompas #KompasID #KompasData #Ekonomi⁣⁣"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2039038449387652423",
+            "is_video": false,
+            "media_preview": "ACQq2CoBxlvzqfylAycn6kj9M/0pzALyScfXH4U3zU4Unk9Ae/8AjQBGj7ZCgHH1J6AHufepWk24x3PNVzPEAZFGSDg9uvH9KPOQsq45cA9emaQrloSA0UKoxRTGVr8Fo8Dk5HT8aqqp82M4OAqgn04NaL7IxluB9f0qMTxhgozlsEde9PmtoS4pu9+xmKjeUwwcllxx9alAPmRHBwFTPHTr1q59tTaWGcAgdPWj7WN6qB98A/nmnzeRHKl1/q5aXpRQvIoqTUqXwLR4Aycj+tVVU+bGcHAVc8ex/l39Kv1KnSqTtoS43dzFVG8phg5LL/X+Xf0qYKfMiODgKuePr/Lv6VrYqObgZHrRzE8g4MB1I/OiqexWJLAE+pGaKLFXP//Z",
+            "owner": {
+                "id": "1681607129"
+            },
+            "shortcode": "BxMHqqbHUVH",
+            "tags": [
+                "KompasID",
+                "InfografikKompas",
+                "Ekonomi",
+                "HarianKompas",
+                "KompasData"
+            ],
+            "taken_at_timestamp": 1557292346,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/36752e6d6b58ac5465fba03eb554fe4a/5D7239A7/t51.2885-15/e35/c0.55.726.726/s150x150/59760092_248769639301522_1295369797080416721_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110&ig_cache_key=MjAzOTAzODQ0OTM4NzY1MjQyMw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/51cb061342a8871c5c60a510f0b543e2/5D6EACED/t51.2885-15/e35/c0.55.726.726/s240x240/59760092_248769639301522_1295369797080416721_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110&ig_cache_key=MjAzOTAzODQ0OTM4NzY1MjQyMw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/537f087e04e37d8679466285af9aaa71/5D71D657/t51.2885-15/e35/c0.55.726.726/s320x320/59760092_248769639301522_1295369797080416721_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110&ig_cache_key=MjAzOTAzODQ0OTM4NzY1MjQyMw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/d7beda777c3429ee82b16f31ebaa9352/5D525B0D/t51.2885-15/e35/c0.55.726.726/s480x480/59760092_248769639301522_1295369797080416721_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110&ig_cache_key=MjAzOTAzODQ0OTM4NzY1MjQyMw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-sin2-1.cdninstagram.com/vp/fef59ddceae7b2ac1ac78825893ad00d/5D551AEE/t51.2885-15/sh0.08/e35/c0.55.726.726/s640x640/59760092_248769639301522_1295369797080416721_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110&ig_cache_key=MjAzOTAzODQ0OTM4NzY1MjQyMw%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://scontent-sin2-1.cdninstagram.com/vp/fef59ddceae7b2ac1ac78825893ad00d/5D551AEE/t51.2885-15/sh0.08/e35/c0.55.726.726/s640x640/59760092_248769639301522_1295369797080416721_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110&ig_cache_key=MjAzOTAzODQ0OTM4NzY1MjQyMw%3D%3D.2.c",
+            "urls": [
+                "https://scontent-sin2-1.cdninstagram.com/vp/06440f3bb27983f55860cd047edbbeab/5D610B37/t51.2885-15/e35/59760092_248769639301522_1295369797080416721_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=110&ig_cache_key=MjAzOTAzODQ0OTM4NzY1MjQyMw%3D%3D.2"
+            ],
+            "username": "kompasdata"
+        }
+    ]
+}

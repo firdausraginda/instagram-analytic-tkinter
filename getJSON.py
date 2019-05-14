@@ -117,8 +117,8 @@ def filterSentiScore(data, minSentiScore):
 
 def convertTime(timeData):
     ts = time.gmtime(timeData)
-    # return time.strftime("%Y-%m-%d", ts)
-    return time.strftime("%Y-%m-%d at %H:%M:%S ", ts)
+    return time.strftime("%Y-%m-%d", ts)
+    # return time.strftime("%Y-%m-%d at %H:%M:%S ", ts)
 
 def findCountLike(val):
     return val['count like']
@@ -139,32 +139,35 @@ def format1(data):
     arrUsername = []
     arrQty = []
 
-    for i in range(len(data)):
-        arrUsername.append(data[i][0])
-        arrQty.append(data[i][1])
+    if data != 'EMPTY DATA':
+        for i in range(len(data)):
+            arrUsername.append(data[i][0])
+            arrQty.append(data[i][1])
 
     return arrUsername, arrQty
 
 def format2(data, key):
-    arrTime = []
+    arrId = []
     arrQty = []
-    for i in reversed(range(len(data))):
-        if key == 'like':
-            arrTime.append(data[i]['time'])
-            arrQty.append(data[i]['count like'])
-        else:            
-            arrTime.append(data[i]['time'])
-            arrQty.append(data[i]['count comment'])
+    if data != 'EMPTY DATA':
+        for i in reversed(range(len(data))):
+            if key == 'like':
+                arrId.append(data[i]['id post'])
+                arrQty.append(data[i]['count like'])
+            else:            
+                arrId.append(data[i]['id post'])
+                arrQty.append(data[i]['count comment'])
     
-    return arrTime, arrQty
+    return arrId, arrQty
 
 def format3(data):
     arrAccount = []
     arrComment = []
-    for i in range(len(data['all sorted ranked comments'])):
-        for j in range(len(data['all sorted ranked comments'][i]['sorted ranked comments'])):
-            arrAccount.append(data['all sorted ranked comments'][i]['account name'])
-            arrComment.append(data['all sorted ranked comments'][i]['sorted ranked comments'][j][0])
+    if data != 'EMPTY DATA':
+        for i in range(len(data['all sorted ranked comments'])):
+            for j in range(len(data['all sorted ranked comments'][i]['sorted ranked comments'])):
+                arrAccount.append(data['all sorted ranked comments'][i]['account name'])
+                arrComment.append(data['all sorted ranked comments'][i]['sorted ranked comments'][j][0])
 
     return arrAccount, arrComment
 
@@ -303,15 +306,16 @@ def getAllPostData(accOwner):
 
     for i in range(0, len(accOwner['GraphImages'])):
         tempPost = {}
-
+        idPost = accOwner['GraphImages'][i]['id'] 
         if(len(accOwner['GraphImages'][i]['edge_media_to_caption']['edges']) != 0):
             caption = removeEmoticon(accOwner['GraphImages'][i]['edge_media_to_caption']['edges'][0]['node']['text'])
+            if(len(accOwner['GraphImages'][i]['tags']) != 0):
+                separator = ', '
+                tags = separator.join(accOwner['GraphImages'][i]['tags'])
+            else:
+                tags = ''
         else:
             caption = ''
-        if(len(accOwner['GraphImages'][i]['tags']) != 0):
-            separator = ', '
-            tags = separator.join(accOwner['GraphImages'][i]['tags'])
-        else:
             tags = ''
         img = accOwner['GraphImages'][i]['thumbnail_resources'][2]['src']
         time = convertTime(accOwner['GraphImages'][i]['taken_at_timestamp'])
@@ -321,6 +325,7 @@ def getAllPostData(accOwner):
         else:
             countComment = ''
         
+        tempPost['id post'] = idPost
         tempPost['caption'] = caption
         tempPost['tags'] = tags
         tempPost['image'] = img
