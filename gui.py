@@ -64,7 +64,7 @@ def listBox(data1, data2):
         if i == 0:
             mylist.insert(tk.END, "TOP %s POSTS based on LIKES" % (len(data1)))
             mylist.insert(tk.END, "--------------------------------------")
-        mylist.insert(tk.END, "POST-%s" % (i+1))
+        mylist.insert(tk.END, "POST #%s" % (i+1))
         mylist.insert(tk.END, "caption: " + data1[i]['caption'])
         mylist.insert(tk.END, "tags: " + data1[i]['tags'])
         mylist.insert(tk.END, "post time: " + data1[i]['time'])
@@ -79,7 +79,7 @@ def listBox(data1, data2):
         if i == 0:
             mylist.insert(tk.END, "TOP %s POSTS based on COMMENTS" % (len(data2)))
             mylist.insert(tk.END, "--------------------------------------")
-        mylist.insert(tk.END, "POST-%s" % (i+1))
+        mylist.insert(tk.END, "POST #%s" % (i+1))
         mylist.insert(tk.END, "caption: " + data2[i]['caption'])
         mylist.insert(tk.END, "tags: " + data2[i]['tags'])
         mylist.insert(tk.END, "post time: " + data2[i]['time'])
@@ -90,8 +90,8 @@ def listBox(data1, data2):
     # scrollbar.config( command = mylist.yview )
 
 def igScraping(nama):
-    if type(mainProg(nama, 20, 5)) != str:
-        arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc = mainProg(nama, 20, 5)
+    if type(mainProg(nama, 15, 5)) != str:
+        arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc = mainProg(nama, 15, 5)
 
         barChartHorizontal('Username', 'Comments', arrKeyComAcc, arrQtyComAcc, 'account that comment the most')
         lineChart('oldest post --> latest post', 'Likes', arrKeyGetPostLike, arrQtyGetPostLike, 'Number of Likes')        
@@ -99,7 +99,7 @@ def igScraping(nama):
 
         listBox(hasilSortLike, hasilSortComment)
     else:
-        tk.messagebox.showerror("Error", mainProg(nama, 20, 5))
+        tk.messagebox.showerror("Error", mainProg(nama, 15, 5))
 
 def getInputan():
     inputan = entry_1.get()
