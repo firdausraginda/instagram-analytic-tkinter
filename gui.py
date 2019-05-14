@@ -21,15 +21,14 @@ def mainProg(account, qtyPost, qtyAcc):
     progBar.after(500, progress(valProgBar))
     progBar.update()
 
+    statusParam, hasilScrapingComAcc, hasilGetPost, hasilSortLike, hasilSortComment, curAcc = mainProgramGetJSON(accOwner, qtyAcc)
+    valProgBar += 30
+    progBar.after(500, progress(valProgBar))
+    progBar.update()
 
-    if(type(mainProgramGetJSON(accOwner, qtyAcc)) != str):
-        hasilScrapingComAcc, hasilAccMenByUser, hasilSelCom, hasilGetPost, hasilSortLike, hasilSortComment, curAcc = mainProgramGetJSON(accOwner, qtyAcc)
-        valProgBar += 10
-        progBar.after(500, progress(valProgBar))
-        progBar.update()
-
+    if statusParam == 'done':
         arrKeyComAcc, arrQtyComAcc = format1(hasilScrapingComAcc)
-        valProgBar += 10
+        valProgBar += 5
         progBar.after(500, progress(valProgBar))
         progBar.update()
 
@@ -43,9 +42,13 @@ def mainProg(account, qtyPost, qtyAcc):
         progBar.after(500, progress(valProgBar))
         progBar.update()
 
-        return arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc
+        return statusParam, arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc
     else:
-        return mainProgramGetJSON(accOwner, qtyAcc)
+        valProgBar += 25
+        progBar.after(500, progress(valProgBar))
+        progBar.update()
+        arrKeyComAcc = arrQtyComAcc = arrKeyGetPostLike = arrQtyGetPostLike = arrKeyGetPostComment = arrQtyGetPostComment = None
+        return statusParam, arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc
 
 def barChartVertikal(keyName, valueName, keyData, valueData, explanation):
     Data = {keyName: keyData,
@@ -129,35 +132,37 @@ def listBox(data1, data2):
 def igScraping(nama):
     global valProgBar
 
-    if type(mainProg(nama, 20, 5)) != str:
-        arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc = mainProg(nama, 20, 5)
+    statusParam, arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc = mainProg(nama, 15, 5)
+    valProgBar += 5
+    progBar.after(500, progress(valProgBar))
+    progBar.update()
 
+    if statusParam == 'done':
         if len(arrKeyComAcc) != 0: 
             barChartHorizontal('Username', 'Comments', arrKeyComAcc, arrQtyComAcc, 'account that comment the most')
-            valProgBar += 3
+            valProgBar += 2
             progBar.after(500, progress(valProgBar))
             progBar.update()
 
         if len(arrKeyGetPostLike) != 0: 
             lineChart('oldest post --> latest post', 'Likes', arrKeyGetPostLike, arrQtyGetPostLike, 'Number of Likes')        
-            valProgBar += 3
+            valProgBar += 1
             progBar.after(500, progress(valProgBar))
             progBar.update()
 
         if len(arrKeyGetPostComment) != 0: 
             lineChart('oldest post --> latest post', 'Comments', arrKeyGetPostComment, arrQtyGetPostComment, 'Number of Comments')
-            valProgBar += 2
+            valProgBar += 1
             progBar.after(500, progress(valProgBar))
             progBar.update()
 
         if len(hasilSortLike) != 0 and len(hasilSortComment) != 0:
             listBox(hasilSortLike, hasilSortComment)
-            valProgBar += 2
+            valProgBar += 1
             progBar.after(500, progress(valProgBar))
             progBar.update()
-
     else:
-        messagebox.showerror("Error", mainProg(nama, 20, 5))
+        messagebox.showerror("Error", statusParam)
 
 def getInputan():
     global valProgBar
@@ -174,7 +179,7 @@ def getInputan():
 
         igScraping(inputan)
     else:
-        messagebox.showerror("Error", 'text field cannot be empty')
+        messagebox.showerror("Error", 'please input username')
 
 def progress(currentValue):
     progBar["value"]=currentValue

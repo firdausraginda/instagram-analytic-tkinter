@@ -340,17 +340,21 @@ def getAllPostData(accOwner):
 def mainProgramGetJSON(account, inputanRank):
     accOwner = openFile(account)
     
+    hasilScrapingComAcc = hasilAccMenByUser = hasilSelCom = hasilGetPost = hasilSortLike = hasilSortComment = curAcc = None
+
     # cek if json exist ==> if akun private or not
     if (accOwner != 'EMPTY DATA'):
         curAcc = getAccountOwner(accOwner)
         hasilScrapingComAcc = scrapingCommentAccount(accOwner, inputanRank)
-        hasilAccMenByUser = scrapingAccountMentionedByUser(accOwner, inputanRank)
-        hasilSelCom = selectedComments(accOwner, hasilScrapingComAcc)                  
+        # hasilAccMenByUser = scrapingAccountMentionedByUser(accOwner, inputanRank)
+        # hasilSelCom = selectedComments(accOwner, hasilScrapingComAcc)                  
         hasilGetPost = getAllPostData(accOwner)
         hasilSortLike, hasilSortComment = sortPost(hasilGetPost)
 
-        return hasilScrapingComAcc, hasilAccMenByUser, hasilSelCom, hasilGetPost, hasilSortLike, hasilSortComment, curAcc
+        return 'done', hasilScrapingComAcc, hasilGetPost, hasilSortLike, hasilSortComment, curAcc
+        # return 'done', hasilScrapingComAcc, hasilAccMenByUser, hasilSelCom, hasilGetPost, hasilSortLike, hasilSortComment, curAcc
     else:
-        return 'account is private or have not post anything yet'
+        return 'account is private or have not post anything yet', hasilScrapingComAcc, hasilGetPost, hasilSortLike, hasilSortComment, curAcc
+        # return 'account is private or have not post anything yet', hasilScrapingComAcc, hasilAccMenByUser, hasilSelCom, hasilGetPost, hasilSortLike, hasilSortComment, curAcc
 
 # mainProgramGetJSON('../data-instagram/ra.ginda/ra.ginda.json', 3)
