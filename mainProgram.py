@@ -37,9 +37,9 @@ def mainProg(account, qtyPost, qtyAcc):
         # print('===============================================================')
         # print('analisis sentimen sorted, filtered, cleaned comments %s' % (hasilKomenMenarik))
         # print('===============================================================')
-        print('hasil post dengan like terbanyak: %s' % (hasilSortLike))
-        print('===============================================================')
-        print('hasil post dengan comment terbanyak: %s' % (hasilSortComment))
+        # print('hasil post dengan like terbanyak: %s' % (hasilSortLike))
+        # print('===============================================================')
+        # print('hasil post dengan comment terbanyak: %s' % (hasilSortComment))
 
         return arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc
         # return hasilScrapingComAcc, hasilAccMenByUser, hasilKomenMenarik, hasilSortLike, hasilSortComment

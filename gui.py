@@ -1,5 +1,7 @@
 # from tkinter import *
 import tkinter as tk
+from tkinter import messagebox
+
 from mainProgram import mainProg
 
 from pandas import DataFrame
@@ -99,14 +101,14 @@ def igScraping(nama):
 
         listBox(hasilSortLike, hasilSortComment)
     else:
-        tk.messagebox.showerror("Error", mainProg(nama, 15, 5))
+        messagebox.showerror("Error", mainProg(nama, 15, 5))
 
 def getInputan():
     inputan = entry_1.get()
     if inputan != '':
         igScraping(inputan)
     else:
-        tk.messagebox.showerror("Error", 'text field cannot be empty')
+        messagebox.showerror("Error", 'text field cannot be empty')
 
 label_1 = tk.Label(root, text="Input Username")
 entry_1 = tk.Entry(root)
