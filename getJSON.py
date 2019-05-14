@@ -307,16 +307,22 @@ def getAllPostData(accOwner):
         if(len(accOwner['GraphImages'][i]['edge_media_to_caption']['edges']) != 0):
             caption = removeEmoticon(accOwner['GraphImages'][i]['edge_media_to_caption']['edges'][0]['node']['text'])
         else:
-            caption = 'EMPTY DATA'
+            caption = ''
+        if(len(accOwner['GraphImages'][i]['tags']) != 0):
+            separator = ', '
+            tags = separator.join(accOwner['GraphImages'][i]['tags'])
+        else:
+            tags = ''
         img = accOwner['GraphImages'][i]['thumbnail_resources'][2]['src']
         time = convertTime(accOwner['GraphImages'][i]['taken_at_timestamp'])
         countLike = accOwner['GraphImages'][i]['edge_media_preview_like']['count']
         if (accOwner['GraphImages'][i]['comments_disabled'] == False):
             countComment = accOwner['GraphImages'][i]['edge_media_to_comment']['count']
         else:
-            countComment = 'EMPTY DATA'
+            countComment = ''
         
         tempPost['caption'] = caption
+        tempPost['tags'] = tags
         tempPost['image'] = img
         tempPost['time'] = time
         tempPost['count like'] = countLike
