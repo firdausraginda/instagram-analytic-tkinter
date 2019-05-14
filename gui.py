@@ -129,8 +129,8 @@ def listBox(data1, data2):
 def igScraping(nama):
     global valProgBar
 
-    if type(mainProg(nama, 15, 5)) != str:
-        arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc = mainProg(nama, 15, 5)
+    if type(mainProg(nama, 20, 5)) != str:
+        arrKeyComAcc, arrQtyComAcc, arrKeyGetPostLike, arrQtyGetPostLike, arrKeyGetPostComment, arrQtyGetPostComment, hasilSortLike, hasilSortComment, curAcc = mainProg(nama, 20, 5)
 
         if len(arrKeyComAcc) != 0: 
             barChartHorizontal('Username', 'Comments', arrKeyComAcc, arrQtyComAcc, 'account that comment the most')
@@ -157,7 +157,7 @@ def igScraping(nama):
             progBar.update()
 
     else:
-        messagebox.showerror("Error", mainProg(nama, 15, 5))
+        messagebox.showerror("Error", mainProg(nama, 20, 5))
 
 def getInputan():
     global valProgBar
