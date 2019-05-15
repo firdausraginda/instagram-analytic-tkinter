@@ -153,9 +153,11 @@ def format2(data, key):
         for i in reversed(range(len(data))):
             if key == 'like':
                 arrId.append(data[i]['id post'])
+                # arrId.append(i+1)
                 arrQty.append(data[i]['count like'])
             else:            
                 arrId.append(data[i]['id post'])
+                # arrId.append(i+1)
                 arrQty.append(data[i]['count comment'])
     
     return arrId, arrQty

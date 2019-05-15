@@ -88,10 +88,10 @@ def lineChart(keyName, valueName, keyData, valueData, explanation):
     df = DataFrame(Data, columns= [keyName, valueName])
     df = df[[keyName, valueName]].groupby(keyName).sum()
 
-    figure = plt.Figure(figsize=(3,4), dpi=80)
+    figure = plt.Figure(figsize=(3,4), dpi=90)
     ax = figure.add_subplot(111)
     line = FigureCanvasTkAgg(figure, root)
-    line.get_tk_widget().pack(side=tk.LEFT, ipadx=120)
+    line.get_tk_widget().pack(side=tk.LEFT, ipadx=100)
     df.plot(kind='line', legend=True, ax=ax, color='r',marker='o', fontsize=10)
     ax.set_title(explanation)
 
@@ -99,7 +99,7 @@ def listBox(data1, data2):
     # scrollbar = tk.Scrollbar(root)
     # scrollbar.pack( side = tk.RIGHT, fill = tk.Y )
 
-    mylist = tk.Listbox(root)
+    mylist = tk.Listbox(root, font=1)
     for i in range(len(data1)):
         if i == 0:
             mylist.insert(tk.END, "TOP %s POSTS based on LIKES" % (len(data1)))
