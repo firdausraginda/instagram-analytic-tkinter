@@ -1,6 +1,6 @@
 # Instagram Analytic
 
-Instagram Analytic is a Python program for mining instagram data.
+Instagram Analytic is a python program for mining instagram data.
 
 There are 3 results of this program:
 1. Users that comment the most (bar chart).
@@ -25,7 +25,7 @@ Use pip to install [matplotlib](https://matplotlib.org/users/installing.html) an
 
 ## Usage
 
-Go to instagram-analytic folder then run gui.py
+Go to instagram-analytic-tkinter folder then run gui.py
 
 ```bash
 python gui.py
