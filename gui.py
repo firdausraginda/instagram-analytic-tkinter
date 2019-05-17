@@ -10,8 +10,8 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from getJSON import mainProgramGetJSON, getVeryPositiveComments, automateIgScraper, format1, format2, format3
 
 root = tk.Tk()
-# root.geometry("900x500")
-root.attributes('-fullscreen', True)
+root.geometry("900x500")
+#root.attributes('-fullscreen', True)
 
 def mainProg(account, qtyPost, qtyAcc):
     global valProgBar
