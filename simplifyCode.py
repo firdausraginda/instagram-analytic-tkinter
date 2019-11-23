@@ -2,13 +2,12 @@
 import json
 import operator
 from operator import itemgetter
-import time
+import datetime
 import os
 from collections import Counter 
-from datetime import datetime
 from dateutil import tz
-import datetime 
 import calendar
+import requests
 
 # write excel
 import openpyxl 
@@ -37,18 +36,17 @@ def openFile(dataAkun):
     return data
 
 def findDay(date): 
-    # born = datetime.datetime.strptime(date, '%d %m %Y').weekday()
-    born = datetime.datetime.strptime(date, '%Y-%m-%d').weekday()  
-    return calendar.day_name[born]
+    date = datetime.datetime.fromtimestamp(date).weekday()
+    return calendar.day_name[date]
 
 def findMonth(date):
-    datee = datetime.datetime.strptime(date, "%Y-%m-%d")
-    return datee.month
+    return datetime.datetime.fromtimestamp(date).month
 
-def convertTime(timeData):
-    ts = time.gmtime(timeData)
-    return time.strftime("%Y-%m-%d", ts)
-    # return time.strftime('%d %m %Y', ts)
+def findHour(time):
+    return datetime.datetime.fromtimestamp(time).hour
+
+def convertDate(timeData):
+    return datetime.datetime.fromtimestamp(timeData)
 
 def removeEmoticon(kalimat):
     return kalimat.encode('ascii', 'ignore').decode('ascii')
@@ -103,7 +101,10 @@ def getAllPostData(accOwner):
             caption = ''
             tags = ''
         img = accOwner['GraphImages'][i]['thumbnail_resources'][2]['src']
-        time = convertTime(accOwner['GraphImages'][i]['taken_at_timestamp'])
+        hour = findHour(accOwner['GraphImages'][i]['taken_at_timestamp'])
+        date = convertDate(accOwner['GraphImages'][i]['taken_at_timestamp'])
+        day = findDay(accOwner['GraphImages'][i]['taken_at_timestamp'])
+        month = findMonth(accOwner['GraphImages'][i]['taken_at_timestamp'])
         countLike = accOwner['GraphImages'][i]['edge_media_preview_like']['count']
         if (accOwner['GraphImages'][i]['comments_disabled'] == False):
             countComment = accOwner['GraphImages'][i]['edge_media_to_comment']['count']
@@ -118,9 +119,10 @@ def getAllPostData(accOwner):
         tempPost['caption'] = caption
         tempPost['tags'] = tags
         tempPost['image'] = img
-        tempPost['time'] = time
-        tempPost['day'] = findDay(time)
-        tempPost['month'] = findMonth(time)
+        tempPost['hour'] = hour
+        tempPost['date'] = date
+        tempPost['day'] = day
+        tempPost['month'] = month
         tempPost['count like'] = countLike
         tempPost['count comment'] = countComment
         tempPost['Users That Comment'] = usersThatComment
@@ -145,7 +147,10 @@ def getAllPostDataLocalServer(accOwner):
             caption = ''
             tags = ''
         img = accOwner[i]['thumbnail_resources'][2]['src']
-        time = convertTime(accOwner[i]['taken_at_timestamp'])
+        hour = findHour(accOwner[i]['taken_at_timestamp'])
+        date = convertDate(accOwner[i]['taken_at_timestamp'])
+        day = findDay(accOwner[i]['taken_at_timestamp'])
+        month = findMonth(accOwner[i]['taken_at_timestamp'])
         countLike = accOwner[i]['edge_media_preview_like']['count']
         if (accOwner[i]['comments_disabled'] == False):
             countComment = accOwner[i]['edge_media_to_comment']['count']
@@ -160,9 +165,10 @@ def getAllPostDataLocalServer(accOwner):
         tempPost['caption'] = caption
         tempPost['tags'] = tags
         tempPost['image'] = img
-        tempPost['time'] = time
-        tempPost['day'] = findDay(time)
-        tempPost['month'] = findMonth(time)
+        tempPost['hour'] = hour
+        tempPost['date'] = date
+        tempPost['day'] = day
+        tempPost['month'] = month
         tempPost['count like'] = countLike
         tempPost['count comment'] = countComment
         tempPost['Users That Comment'] = usersThatComment
@@ -170,28 +176,28 @@ def getAllPostDataLocalServer(accOwner):
 
     return allDataPost
 
-
 def writeExcel(data, usersComments, totalPosts, totalLikes, totalComments):
     sheet.merge_cells('L4:M4')
     sheet.title = username
     sheet['A1'] = 'Id Post'
-    sheet['B1'] = 'Time'
-    sheet['C1'] = 'Day'
-    sheet['D1'] = 'Month'
-    sheet['E1'] = 'Interactions'
-    sheet['F1'] = 'Likes'
-    sheet['G1'] = 'Comments'
-    sheet['H1'] = 'Tags'
-    sheet['I1'] = 'Caption'
-    sheet['J1'] = 'Image Url'
+    sheet['B1'] = 'Date & Time'
+    sheet['C1'] = 'Month'
+    sheet['D1'] = 'Day'
+    sheet['E1'] = 'Hour'
+    sheet['F1'] = 'Interactions'
+    sheet['G1'] = 'Likes'
+    sheet['H1'] = 'Comments'
+    sheet['I1'] = 'Tags'
+    sheet['J1'] = 'Caption'
+    sheet['K1'] = 'Image Url'
 
-    sheet['L1'] = 'Total Posts'
-    sheet['M1'] = 'Total Likes'
-    sheet['N1'] = 'Total Comments'
+    sheet['M1'] = 'Total Posts'
+    sheet['N1'] = 'Total Likes'
+    sheet['O1'] = 'Total Comments'
 
-    sheet['L4'] = 'Users With Highest Number of Comments'
-    sheet['L5'] = 'Users'
-    sheet['M5'] = 'Number of Comments'
+    sheet['M4'] = 'Users With Highest Number of Comments'
+    sheet['M5'] = 'Users'
+    sheet['N5'] = 'Number of Comments'
 
     sheet['A1'].font = Font(bold=True)
     sheet['B1'].font = Font(bold=True)
@@ -203,65 +209,71 @@ def writeExcel(data, usersComments, totalPosts, totalLikes, totalComments):
     sheet['H1'].font = Font(bold=True)
     sheet['I1'].font = Font(bold=True)
     sheet['J1'].font = Font(bold=True)
+    sheet['K1'].font = Font(bold=True)
 
-    sheet['L1'].font = Font(bold=True)
     sheet['M1'].font = Font(bold=True)
     sheet['N1'].font = Font(bold=True)
+    sheet['O1'].font = Font(bold=True)
 
-    sheet['L4'].font = Font(bold=True)
-    sheet['L5'].font = Font(bold=True)
+    sheet['M4'].font = Font(bold=True)
     sheet['M5'].font = Font(bold=True)
-    sheet['L2'].alignment = Alignment(horizontal="center", vertical="center")
+    sheet['N5'].font = Font(bold=True)
     sheet['M2'].alignment = Alignment(horizontal="center", vertical="center")
     sheet['N2'].alignment = Alignment(horizontal="center", vertical="center")
+    sheet['O2'].alignment = Alignment(horizontal="center", vertical="center")
     
     for i in range(0, len(data)):
         sheet.cell(row=i+2, column=1).value = data[i]['id post']
-        sheet.cell(row=i+2, column=2).value = data[i]['time']
-        sheet.cell(row=i+2, column=3).value = data[i]['day']
-        sheet.cell(row=i+2, column=4).value = data[i]['month']
-        sheet.cell(row=i+2, column=5).value = data[i]['count like'] + data[i]['count comment']
-        sheet.cell(row=i+2, column=6).value = data[i]['count like']
-        sheet.cell(row=i+2, column=7).value = data[i]['count comment']
-        sheet.cell(row=i+2, column=8).value = data[i]['tags']
-        sheet.cell(row=i+2, column=9).value = data[i]['caption']
-        sheet.cell(row=i+2, column=10).value = data[i]['image']
+        sheet.cell(row=i+2, column=2).value = data[i]['date']
+        sheet.cell(row=i+2, column=3).value = data[i]['month']
+        sheet.cell(row=i+2, column=4).value = data[i]['day']
+        sheet.cell(row=i+2, column=5).value = data[i]['hour']
+        sheet.cell(row=i+2, column=6).value = data[i]['count like'] + data[i]['count comment']
+        sheet.cell(row=i+2, column=7).value = data[i]['count like']
+        sheet.cell(row=i+2, column=8).value = data[i]['count comment']
+        sheet.cell(row=i+2, column=9).value = data[i]['tags']
+        sheet.cell(row=i+2, column=10).value = data[i]['caption']
+        sheet.cell(row=i+2, column=11).value = data[i]['image']
     
     for i in range(0, len(usersComments)):
-        sheet.cell(row=i+6, column=12).value = usersComments[i][0]
-        sheet.cell(row=i+6, column=13).value = usersComments[i][1]
+        sheet.cell(row=i+6, column=13).value = usersComments[i][0]
+        sheet.cell(row=i+6, column=14).value = usersComments[i][1]
 
-    sheet['L2'].value = totalPosts
-    sheet['M2'].value = totalLikes
-    sheet['N2'].value = totalComments
+    sheet['M2'].value = totalPosts
+    sheet['N2'].value = totalLikes
+    sheet['O2'].value = totalComments
 
     wb.save('instagram-analytic-%s.xlsx' % (sheet.title))
 
-import requests
-
 def mainProg(username):
+        # -----hosting locally-----
         url="http://localhost:3000/GraphImages"
         r = requests.get(url)
-        res2 = r.json()
-        # print(len(data))
-        # print(len(data[0]['comments']['data']))
-        
-        # res2 = openFile('../data-ig/%s/%s.json' % (username, username))
-        if (res2 != 'EMPTY DATA'):
-            allPostsData = getAllPostDataLocalServer(res2)
+        data = r.json()
+
+        # -----open file without hosting-----
+        # data = openFile('../data-ig/%s/%s.json' % (username, username))
+
+        if (data != 'EMPTY DATA'):
+            # -----hosting locally-----
+            allPostsData = getAllPostDataLocalServer(data)
+
+            # -----open file without hosting-----
+            # allPostsData = getAllPostData(data)
+
             totalPosts = len(allPostsData)
             totalLikes = countLikes(allPostsData)
             totalComments = countComments(allPostsData)
             countUsersComment = countUsersThatComment(allPostsData)
-            # print(allPostsData)
             writeExcel(allPostsData, countUsersComment, totalPosts, totalLikes, totalComments)
+            # print(allPostsData)
         else:
             print('account is private or have not post anything yet')
 
 # -----------------------------------------Pre-set-----------------------------------------
 username = 'ra.ginda'
 destFile = "../data-ig/%s" % (username)
-maxData = 2
+maxData = 10
  
 # -----------------------------------------Automate IG Scraper-----------------------------------------
 # automateIgScraper(username, destFile, maxData)
