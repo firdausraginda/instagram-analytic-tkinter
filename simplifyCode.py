@@ -177,7 +177,7 @@ def getAllPostDataLocalServer(accOwner):
     return allDataPost
 
 def writeExcel(data, usersComments, totalPosts, totalLikes, totalComments):
-    sheet.merge_cells('L4:M4')
+    sheet.merge_cells('M4:N4')
     sheet.title = username
     sheet['A1'] = 'Id Post'
     sheet['B1'] = 'Date & Time'
