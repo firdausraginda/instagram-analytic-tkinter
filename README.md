@@ -11,10 +11,6 @@ There are 3 results of this program:
 
 Install [pip](https://pypi.org/project/pip/)
 
-```bash
-pip install pip
-```
-
 Use pip to install [instagram-scraper](https://github.com/rarcega/instagram-scraper) for scraping instagram data before mining starts.
 
 ```bash
